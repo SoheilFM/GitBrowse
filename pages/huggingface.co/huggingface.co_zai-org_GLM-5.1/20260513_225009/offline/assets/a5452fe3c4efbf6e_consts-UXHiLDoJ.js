@@ -1,0 +1,1 @@
+import{c as e,l as t,u as n}from"./BillingProducts-BfdKxIdZ.js";var r=5e3,i={...Object.fromEntries(n.map(n=>[n,{amountUsdMonth:e[n].unitCostMicroUSD.monthly/1e6,storageTb:t[n]}])),custom:{}};export{i as n,r as t};

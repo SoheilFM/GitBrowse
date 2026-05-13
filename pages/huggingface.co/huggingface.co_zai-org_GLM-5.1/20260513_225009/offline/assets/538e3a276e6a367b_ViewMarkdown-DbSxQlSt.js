@@ -1,0 +1,1 @@
+function e(e){let t=/^(\s*---[\r\n]+)([\S\s]*?)([\r\n]+---(\r\n|\n|$))/g,n=t.exec(e);return n===null?{content:e}:{content:e.slice(t.lastIndex),yaml:{raw:n[2],prefix:n[1],suffix:n[3],block:n[1]+n[2]+n[3]}}}export{e as t};

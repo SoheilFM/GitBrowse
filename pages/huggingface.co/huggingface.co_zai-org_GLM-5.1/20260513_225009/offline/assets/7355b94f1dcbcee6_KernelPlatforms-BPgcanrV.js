@@ -1,0 +1,1 @@
+import{t as e}from"./IconHardware-D8Ph2JWP.js";import{t}from"./IconNeMo-DesEmh0F.js";import{n,r,t as i}from"./IconXpu-Cm-STLOL.js";var a={cuda:{icon:t,label:`CUDA`},rocm:{icon:n,label:`ROCm`},metal:{icon:r,label:`Metal`},xpu:{icon:i,label:`XPU`},cpu:{icon:e,label:`CPU`}};export{a as t};

@@ -1,0 +1,10 @@
+import{D as e,Lt as t,Tt as n,Wt as r,x as i}from"./ViewUtils-DbZqrYcO.js";var a={raw:`brew install git-xet
+git xet install`,highlighted:n([`# Make sure git-xet is installed (https://hf.co/docs/hub/git-xet)`,`brew install git-xet`,`git xet install`].join(`
+`),`bash`)},o={raw:`curl -sSfL https://hf.co/git-xet/install.sh | sh`,highlighted:n([`# Make sure git-xet is installed (https://hf.co/docs/hub/git-xet)`,`curl -sSfL https://hf.co/git-xet/install.sh | sh`].join(`
+`),`bash`)},s={raw:`winget install git-xet`,highlighted:n([`# Make sure git-xet is installed (https://hf.co/docs/hub/git-xet)`,`winget install git-xet`].join(`
+`),`bash`)};function c(){return t()?a:r()?s:o}function l(e,t,n,r){return r===`https`?`git clone ${n}${i(e,t)}`:`git clone ${n}:${i(e,t,!1)}`}var u=(e,t,n,r)=>[`GIT_LFS_SKIP_SMUDGE=1`,l(e,t,n,r)].join(` `);function d(e,t,r,i,a=!1){let o=l(e,t,r,i);return{highlighted:n(o,`bash`),raw:o}}function f(e,t,r,i){let a=u(e,t,r,i);return{highlighted:n(a,`bash`),raw:a}}function p(t,i){let a=`brew install hf`,o=`uv tool install hf`,s=r()?`powershell -ExecutionPolicy ByPass -c "irm https://hf.co/cli/install.ps1 | iex"`:`curl -LsSf https://hf.co/cli/install.sh | bash`,c=`hf download ${t}${i===`dataset`?` --repo-type=dataset`:i===`space`?` --repo-type=space`:``}`,l=`uvx ${c}`,u=`# Make sure the hf CLI is installed`,d=`# Download the ${e(i)}`,f={raw:s,highlighted:n([u,s].join(`
+`),`bash`)},p={raw:c,highlighted:n([d,c].join(`
+`),`bash`)},m={raw:a,highlighted:n([u,a].join(`
+`),`bash`)},h={raw:o,highlighted:n([u,o].join(`
+`),`bash`)},g={raw:l,highlighted:n([d,l].join(`
+`),`bash`)};return[{label:r()?`PowerShell`:`cURL`,snippets:[f,p]},...r()?[]:[{label:`Homebrew`,snippets:[m,p]}],{label:`uv`,snippets:[h,p]},{label:`uvx`,snippets:[g]}]}export{f as a,c as i,d as n,p as r,l as t};

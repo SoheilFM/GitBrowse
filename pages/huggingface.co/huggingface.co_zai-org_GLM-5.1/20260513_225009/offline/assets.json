@@ -1,0 +1,3675 @@
+[
+  {
+    "url": "https://huggingface.co/front/assets/pricing-page/bg-6.png",
+    "final_url": "https://huggingface.co/front/assets/pricing-page/bg-6.png",
+    "status": "saved",
+    "path": "assets/e186f572ea9db106_bg-6.png",
+    "content_type": "image/png",
+    "size": 356923,
+    "sha256": "2ca3e8c87727d1b5f692f0e8228bda1a22fc137b64b3cbececfd2bc2405535ef"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/pricing-page/bg-10.png",
+    "final_url": "https://huggingface.co/front/assets/pricing-page/bg-10.png",
+    "status": "saved",
+    "path": "assets/f0c621dffeb71756_bg-10.png",
+    "content_type": "image/png",
+    "size": 325241,
+    "sha256": "0edb1317481eec60831d99532b5fd91691d9995cd5929fcae3e3ab30720020fa"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/pricing-page/bg-12.png",
+    "final_url": "https://huggingface.co/front/assets/pricing-page/bg-12.png",
+    "status": "saved",
+    "path": "assets/577ad451ba31a0a1_bg-12.png",
+    "content_type": "image/png",
+    "size": 284406,
+    "sha256": "1b648b13c31cfbe050567c53a754f1cb4b2136f3fa5987241641bc117d884246"
+  },
+  {
+    "url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/7wsEUqJCqjGdEkSt8aWhd.png",
+    "final_url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/7wsEUqJCqjGdEkSt8aWhd.png",
+    "status": "saved",
+    "path": "assets/440604858557ed4e_7wsEUqJCqjGdEkSt8aWhd.png",
+    "content_type": "image/png",
+    "size": 233696,
+    "sha256": "96dfbd401627d365218961e5f524b59242eceaf88a190ec35c2c0908b0ebeb1a"
+  },
+  {
+    "url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/Whj5hDiljGxNe2UWCAz8O.webp",
+    "final_url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/Whj5hDiljGxNe2UWCAz8O.webp",
+    "status": "saved",
+    "path": "assets/4f2552d0d460595f_Whj5hDiljGxNe2UWCAz8O.webp",
+    "content_type": "image/webp",
+    "size": 122502,
+    "sha256": "33501a67baa8580f66c571b63e185f0e07879105a069f5e8d36e05a97f67b523"
+  },
+  {
+    "url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/XNUaWPuMwzuS5EXw-SnLK.png",
+    "final_url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/XNUaWPuMwzuS5EXw-SnLK.png",
+    "status": "saved",
+    "path": "assets/358f7f5ec5be04e0_XNUaWPuMwzuS5EXw-SnLK.png",
+    "content_type": "image/png",
+    "size": 233603,
+    "sha256": "a3affa04def7ab8eb5074f6595e6565e460de9e3aef76d2f255c1056ddd1e9be"
+  },
+  {
+    "url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/5QpDtf9npRXe8iYwBJtro.webp",
+    "final_url": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/5QpDtf9npRXe8iYwBJtro.webp",
+    "status": "saved",
+    "path": "assets/73d806253ab9f220_5QpDtf9npRXe8iYwBJtro.webp",
+    "content_type": "image/webp",
+    "size": 121376,
+    "sha256": "c333dda2f611ebb95b23f96ae47f86a98a10e06b44c5a24f09e22c7ae49c4f00"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/6bdfa088-5a16-4108-8482-7dd3e04339ad.woff2",
+    "final_url": "https://huggingface.co/front/assets/fonts/6bdfa088-5a16-4108-8482-7dd3e04339ad.woff2",
+    "status": "saved",
+    "path": "assets/28de2778f737cd8d_6bdfa088-5a16-4108-8482-7dd3e04339ad.woff2",
+    "content_type": "font/woff2",
+    "size": 48196,
+    "sha256": "3671d3be59b42a597f936539c5c2f8ac832cd8d608320f11f42d65809b8aae2c"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/c4e68b8d-8382-4804-a496-c2f499b1ed04.woff",
+    "final_url": "https://huggingface.co/front/assets/fonts/c4e68b8d-8382-4804-a496-c2f499b1ed04.woff",
+    "status": "saved",
+    "path": "assets/7275f3e8cefc0fc0_c4e68b8d-8382-4804-a496-c2f499b1ed04.woff",
+    "content_type": "font/woff",
+    "size": 71082,
+    "sha256": "ac972d9b010ec3c6b90bfef8e6876eecc2dcd8fe319c1f1eaabbb26f5e2b70a2"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/32ef9363-05ce-4342-a813-2eea59a92d4f.woff2",
+    "final_url": "https://huggingface.co/front/assets/fonts/32ef9363-05ce-4342-a813-2eea59a92d4f.woff2",
+    "status": "saved",
+    "path": "assets/7cc41f675f62efdb_32ef9363-05ce-4342-a813-2eea59a92d4f.woff2",
+    "content_type": "font/woff2",
+    "size": 41144,
+    "sha256": "dd60d0ef010f5fb053333184b1cc9f5e6c48308b537f575894048ae1b01c59a8"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/ef5a285b-0c80-4972-b9c8-fd7a6463637e.woff",
+    "final_url": "https://huggingface.co/front/assets/fonts/ef5a285b-0c80-4972-b9c8-fd7a6463637e.woff",
+    "status": "saved",
+    "path": "assets/6c67ce5ed4b01a71_ef5a285b-0c80-4972-b9c8-fd7a6463637e.woff",
+    "content_type": "font/woff",
+    "size": 59578,
+    "sha256": "d765b5cdf5019d017132df8505834398e3790d3702ead8297b04cff9c7c489c1"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/eebe9730-6100-405f-a29c-5a42b00bd10a.woff2",
+    "final_url": "https://huggingface.co/front/assets/fonts/eebe9730-6100-405f-a29c-5a42b00bd10a.woff2",
+    "status": "saved",
+    "path": "assets/04a8244cabf18675_eebe9730-6100-405f-a29c-5a42b00bd10a.woff2",
+    "content_type": "font/woff2",
+    "size": 47796,
+    "sha256": "59a050f9cc2394c8d364d7e26a84c939201f9eae0984da7f18c50cbe5a7049da"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/18623171-86a0-4d58-832c-e25efc8078ff.woff",
+    "final_url": "https://huggingface.co/front/assets/fonts/18623171-86a0-4d58-832c-e25efc8078ff.woff",
+    "status": "saved",
+    "path": "assets/17618fdc997083c1_18623171-86a0-4d58-832c-e25efc8078ff.woff",
+    "content_type": "font/woff",
+    "size": 70837,
+    "sha256": "03fc0c71227cb67feb257deb3747192cabab2a44e11720d36658e265596db12c"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/4456da5f-718b-4e7d-a2b0-367a0ae7cfa5.woff2",
+    "final_url": "https://huggingface.co/front/assets/fonts/4456da5f-718b-4e7d-a2b0-367a0ae7cfa5.woff2",
+    "status": "saved",
+    "path": "assets/1d3c0e2731b03b57_4456da5f-718b-4e7d-a2b0-367a0ae7cfa5.woff2",
+    "content_type": "font/woff2",
+    "size": 41420,
+    "sha256": "97b3bfd27ce45ff1b65c61ab9ddd3ab8f6809340158ed606cd81b7b83671d176"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/fonts/b0d22920-da86-43dd-b3d0-d22adbb79fc8.woff",
+    "final_url": "https://huggingface.co/front/assets/fonts/b0d22920-da86-43dd-b3d0-d22adbb79fc8.woff",
+    "status": "saved",
+    "path": "assets/1ab23f3c0d79c7a4_b0d22920-da86-43dd-b3d0-d22adbb79fc8.woff",
+    "content_type": "font/woff",
+    "size": 60455,
+    "sha256": "692d76eb906f908ee519fc1a1b842462fd89c8f20fcf4314cd61fce9c88d66c9"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/f20cdca7d0bc4a82_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 1060,
+    "sha256": "b53692b44d28c311b1dfcf248281c40e2881394dc25195fd66b43e3d960de165"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/4655d1603ac5e758_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 1036,
+    "sha256": "c4ce321fcd4d026e1b91c93bf773b0925343aea0afa658180d62da06fdb2c6ef"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/af836f9167578798_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 896,
+    "sha256": "7f4d23b5919e235aa618540d0203a51edd3c9d5928f65ec3c2ef7b116270b82b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/edb826b36303c588_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 1196,
+    "sha256": "28b680fad150bda1674b977d8276dadbd29acc87eb63f791033287daa7f89166"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/fae21a9ff2cf13ac_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 5808,
+    "sha256": "5a042e8a41d80f776630efc7c36fedee2882572f8274515e6383acb8bd78e53c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18S0xR41YDw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18S0xR41YDw.woff2",
+    "status": "saved",
+    "path": "assets/1cca0b9dc5cdf7bc_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18S0xR41YDw.woff2",
+    "content_type": "font/woff2",
+    "size": 19844,
+    "sha256": "117a809d4c7bd3a44a270e9e400475872a3bd9695deb2321d0c4296285266a1c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18S0xR41.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18S0xR41.woff2",
+    "status": "saved",
+    "path": "assets/6eb5d46f05d5bba3_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18S0xR41.woff2",
+    "content_type": "font/woff2",
+    "size": 14200,
+    "sha256": "fae9ee8da96ba004f96a5719e3cd323b3248c49a28e56777ce829900d50929ed"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/d3c78537067186a0_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 5012,
+    "sha256": "1cbe6fd3a78d534130d25482992ab6282f0f3ec40b9f6643dd23d12d0076dab9"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/d62877adc714f4c1_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 7896,
+    "sha256": "6cd2de8f69d21c565fc3c39b82cc0f1347b7980ffc3239534ad1fa80f10a3d22"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/4e006f8dde2b92bd_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 5948,
+    "sha256": "601e85e94a3d5112237ac57061078528de1e592b595a418359198697e528f991"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/ac5a074f37ba00be_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 6904,
+    "sha256": "f354e04e6f6e4659a6079b3c19fee47b15035e35b88434d4b60fa46ee4716021"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/20ff64e84140283a_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 5728,
+    "sha256": "5a2f94cceedf6f1fa0df64dd6db216c9c1e783e174e48033a1a4c7f17a7a62a4"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu3cOWxy40.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu3cOWxy40.woff2",
+    "status": "saved",
+    "path": "assets/a3998c65c6d5b8a3_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu3cOWxy40.woff2",
+    "content_type": "font/woff2",
+    "size": 20392,
+    "sha256": "22982053d357ec33aa4d613859733c23000ba767d919853d002f15129f7afc9e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "status": "saved",
+    "path": "assets/b07bfde5dbd57520_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2",
+    "content_type": "font/woff2",
+    "size": 14712,
+    "sha256": "0d0a6262c545e8bbc895116e5afb22579c468d7abb77e378f377d6fed57c1dce"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/style.css",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/style.css",
+    "status": "saved",
+    "path": "assets/954fa41fcbb165ad_style.css",
+    "content_type": "text/css",
+    "size": 875002,
+    "sha256": "dad3b59ba4cbff416672f4bd98bf2054f0d11b388db8bdce19c369ada953c398"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/f8479811c403f583_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1096,
+    "sha256": "fbc69f5e44a5f697613fe7b98120154158dc48108ea827ccce2c0080dfe17588"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/cee638267840e485_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1080,
+    "sha256": "358f9738b0c4b29b1eb8344cf3b208457155356d754725dfea3f7c2d796c48ee"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/08610eda9e4762a2_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 956,
+    "sha256": "0173668b76cba8033694b778b5f132d46102e4ce77c6c398b82c4c3e122ac4fb"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/c2095e2420f96646_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1268,
+    "sha256": "309ee76d03016500e172fd8429818f5e8a37273848e2a910220bcb6a22979548"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/35055be7ce104612_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 5592,
+    "sha256": "d88a1a9bcde43e0ad2357f961ea3b135119854bf82229ad54daf78590d50911e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/fb5907c30526e5ab_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 20852,
+    "sha256": "7c72234865dfc88cac28cdb6f7c8d8cb3c36e3bd5cb9a7de862ea1dc8526191a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2",
+    "status": "saved",
+    "path": "assets/a08deb542ca6025f_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2",
+    "content_type": "font/woff2",
+    "size": 13580,
+    "sha256": "665d0ff024b9bb1d36bc42d15fefdc79111c61ff27ca081f06f5ed0df6ed3db4"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/262a0e3ab0d0fc05_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1084,
+    "sha256": "6b848a3d4fe1820695dc5340caf2991889b5036cf3eabcedb3617e3f2dc47b45"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/54752eab541fe457_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1100,
+    "sha256": "0395700106ab76df8a2605344bda0443fdfcb17d49fc6fa55ccc0e2c0e81e05b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/90c55de6530d2e26_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 928,
+    "sha256": "9efea9f00146c715a3724ee6e4bc94282a329b98ea8a2c9b47deb792e34f84ff"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/e09953a034585767_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1256,
+    "sha256": "8e06b80c205af69e34e3b6766313385e450d4d7f81afe4846ed55d861402168d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/ae6a4a067fc5c96f_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 5800,
+    "sha256": "7e3e7128c72fc0c8ba46f601bb4968c437b06d416e991bbe04f139fadf13c0c0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/07dce674a6a1b423_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 21848,
+    "sha256": "2df5be6e3046ad1d96b37b4352a84c42d272447a9ae29d833779d07f7ddb3be6"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2",
+    "status": "saved",
+    "path": "assets/0ae6bec44f7fd7b1_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2",
+    "content_type": "font/woff2",
+    "size": 14168,
+    "sha256": "7bd446d1211046356ed5dc6e99738c5af26f54d25add483bd00147ab2d336e71"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/38eecf7dba4de6f5_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 1068,
+    "sha256": "6013955835031206b252e66daac0922ac8d0cc5843157af6d39cbbefc4883a93"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/38e558e207cb6ab7_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 1068,
+    "sha256": "a19994c6aeb8cc10a2b4644ea2e240d9016c4629f5913915a5b8e9c44da80797"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/5b17a4ebded62e24_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 928,
+    "sha256": "272605731cbf197b889b24a37971952228290435b8eded922c94ba64955dbd5d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/d59a947045bf3196_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 1236,
+    "sha256": "2e15c09f5c3dcb4369ecc01018c93749ee745aed4cd51f8b783b1ade647a3b6f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/afe41b0d59669491_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 5836,
+    "sha256": "ade2729b6018a3e3e985242296b383500719dd28d16c449a2a666c3a949f3710"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2",
+    "status": "saved",
+    "path": "assets/e863ddbe726092a3_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2",
+    "content_type": "font/woff2",
+    "size": 21796,
+    "sha256": "f561bebbed9f173d0a727805149a121f261722d42259ce941ebf68bb29f3d4ec"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2",
+    "status": "saved",
+    "path": "assets/35501637859c6366_6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2",
+    "content_type": "font/woff2",
+    "size": 14180,
+    "sha256": "b514997508ffc723a0087d6d85c7972bd0f180cd4b190325be978cb87025df36"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/0a0638906314c8e3_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1068,
+    "sha256": "de845e7139a1c7b4db75b31099ed4a0bb30298a49893eef9582814cc52ec7437"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/d1ea5c9015fa5dec_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1072,
+    "sha256": "3e03818faa31f0c941000de5e2010fe15528ebf3d7dbbeb86ae15f7b3c25ed1d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/50280bd51eb6a4d2_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 932,
+    "sha256": "000195b8e8b595da3d49cc589e80b97daceea4bb361ea137107aad07d82b7231"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/cbf47836894097e0_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1264,
+    "sha256": "5c62eb4b43265277e76487464dd70d3da2d30fc96f07ebf556e1622e10b29f2e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/8565a6db06741c4e_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 5856,
+    "sha256": "f4859a556d4c94d8169292501d3e24b670504d8f8834d241cb50e818251ac558"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/0729cc64946df985_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 21952,
+    "sha256": "3c62564ae7950022f04aa02ea99513e230750d1a6e340620d23190a8c9fa8c36"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2",
+    "status": "saved",
+    "path": "assets/9e81cd2bc0beef53_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2",
+    "content_type": "font/woff2",
+    "size": 14172,
+    "sha256": "c9d527876e5dcd48165b8ab76410201fc1eba97003d166b090883c27b3ffbc00"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/a0ccc73a1be3ad6a_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1076,
+    "sha256": "3212fbb49ac61f188a28762c31c13357c60191c59ab2f0fca1defd313c946f2e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/8976fe20b00883e8_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1080,
+    "sha256": "9fcf21f4860b89d0a7d04d4685f883df7040edcb7f19a0d4c18801d58ae093f7"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/fc391ebcb173236b_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 928,
+    "sha256": "830e56da39497bad780220306e7137bf06e05c1a2de3fbdf75a46ecba9667d7c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/1861b5d6c2d46133_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 1276,
+    "sha256": "0b44894e8c2f207ad66ed94e666765351a1b0696db7047d18616ef3d1af802da"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/774d5596fc3c4b4b_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 5868,
+    "sha256": "c6590f925472b0876c9ad6168669052ba34788b9a07662abb6a3282773edbec5"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2",
+    "status": "saved",
+    "path": "assets/e0956731458fb966_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2",
+    "content_type": "font/woff2",
+    "size": 21892,
+    "sha256": "b55d892a488d44a91b0ab27f307343812e77d0f599aee6fcbe2b699ca496245f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2",
+    "status": "saved",
+    "path": "assets/074e66f030a1da7d_6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2",
+    "content_type": "font/woff2",
+    "size": 14192,
+    "sha256": "8be2b8802195a0dee4e2737c1335dc7a3cc5e803746cd8615dec095f589a71bd"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2",
+    "status": "saved",
+    "path": "assets/f5a4752ddab396df_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 4880,
+    "sha256": "ded78de6e63b25a76c4d4a593b3548c96f2b4153f57aa1335994ab284231e183"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/6f8fc8b13989337c_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 7776,
+    "sha256": "19b8d730164274625a7df940e5af3de3c7fe04356459257edd38df9e5ead5d08"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/cc866113eca07242_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5900,
+    "sha256": "b87cd40dd15591f9547c0e0fc31e23db36686079483ad629cb71eebe87e66e9a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/d2e53fbc14835bda_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 6728,
+    "sha256": "7769f64d790eed1885f7defb8d238756f7874fd6df4f6c7a6ee45ee953917434"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/6044c890cf532283_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5764,
+    "sha256": "9c4ce600a790b71baacd6307eccb88e168afb419a090c58abf3d27e55214c0e6"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2",
+    "status": "saved",
+    "path": "assets/63730eae31f6d8ed_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 22056,
+    "sha256": "f842425a4094ad3b9a9827f685af9be6f03fb5c68267181b6dae574ebdf87f63"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2",
+    "status": "saved",
+    "path": "assets/a736e30a2ab3c901_6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2",
+    "content_type": "font/woff2",
+    "size": 14436,
+    "sha256": "a20e7ea03cc90e4e62337ce59f1ad7070f01fe2ca4b459126bbf69b36b9648ca"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2",
+    "status": "saved",
+    "path": "assets/c576a73067354f4a_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5036,
+    "sha256": "8fb135ae6531366eba7aceb462bdb224f0ea1ebb267dc4b184bc513ea924cd01"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/7d55b84fa85c763a_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 7876,
+    "sha256": "c7c0156d5a425af173817ffd3be8d652d0d622a71e0cd17c994e56a0de855a0b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/ad60db2cdde4e348_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 6036,
+    "sha256": "34c81a0149e549e7dfeea21177e07e44d429d1632477cc0169fa4cb79d36f43e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/d94ca0d4af52e356_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 7020,
+    "sha256": "94acd95f390b7680002714015514ab34801a655bf2054ecddc648ee7ec602403"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/0c20593d2bb7ab26_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5868,
+    "sha256": "6ab385de21cc93f42baaf191a3d9e8cc8eb15ea65f4f236e64fe88e0e6f11fb0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2",
+    "status": "saved",
+    "path": "assets/dbcb0da1901dd6db_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 22984,
+    "sha256": "88d8bae8b5e26ef17eef2ca0bde8308a1085ff97e551cbb45c0d40640edbb58a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2",
+    "status": "saved",
+    "path": "assets/b0c79504a4d48bb9_6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2",
+    "content_type": "font/woff2",
+    "size": 14792,
+    "sha256": "46d6a0984aa795b764141232671160e61bdcc49e900de67ca6b35bae25b1ebdd"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2",
+    "status": "saved",
+    "path": "assets/e5a0a82181623f12_6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 5036,
+    "sha256": "d58dafd8f0b43c7bbffc003540514a742bf988ec213f96645dcf112938e4164e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2",
+    "status": "saved",
+    "path": "assets/7d4f138d73806aae_6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 8044,
+    "sha256": "a5984c2e2d01b200cc490bc23a4d437a3242c8c1c3d244a89eb7a6f5b11cd160"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2",
+    "status": "saved",
+    "path": "assets/926b3df628f2393a_6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 6032,
+    "sha256": "300aa5a91d8d582a14e0c6ece4293bc35f132e3a3a649e5fdf8f8dded715777a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2",
+    "status": "saved",
+    "path": "assets/78503cb344861fcf_6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 7048,
+    "sha256": "fa58f80d5251de704511935874593441df23bbd968ddd0ba288295c19708195c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2",
+    "status": "saved",
+    "path": "assets/8d4e462a0b731165_6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 5840,
+    "sha256": "26d1dbd047f3e3167a47a32d90011e68c0491450482b74c575b6b21075ab57c1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2",
+    "status": "saved",
+    "path": "assets/d12052fba9bd80ef_6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2",
+    "content_type": "font/woff2",
+    "size": 23124,
+    "sha256": "f61f863b7dcf4f836954b8a11abc2b2284fb089d669c2cde701b198f9137fbcb"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
+    "status": "saved",
+    "path": "assets/63e9ed1191c65fd5_6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
+    "content_type": "font/woff2",
+    "size": 14868,
+    "sha256": "691491f1fc8badab623e1be56f92cc2d98c462b16617c67e1e288d6b061444bc"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2",
+    "status": "saved",
+    "path": "assets/b66325fda900c5b3_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5044,
+    "sha256": "f294b104a531823ee717881667ff33659a608feaed803c512d596e11c0028632"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/79256f83f37ac9ac_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 8024,
+    "sha256": "ded3f805bc7e6647a673445d3d245223e5048f2bb03dd3d25c0d63db59ed29e4"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/4b81375b8a54e46d_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5992,
+    "sha256": "8dc088cf6d206732af59c4711ffcdac3e348e8e0db3d8d02511a78addf1fb799"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/1409fa6562cff0db_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 7068,
+    "sha256": "59ef09633ae72774978e64bba41dc2bce30b53da234c8020b24a9350dfc0fee3"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/c6cdcd377bfb3578_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5852,
+    "sha256": "615c0d875de2ec25e22bba41b5cd0e1184517a90916cfac8a4be8467539a5c8f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2",
+    "status": "saved",
+    "path": "assets/c37e42b339741d45_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 23112,
+    "sha256": "9d8b9b83f39fe3768c876486e92bb995c1a92c9e85b69481da84e5444ecc980f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
+    "status": "saved",
+    "path": "assets/6cd59c317d3bd06b_6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
+    "content_type": "font/woff2",
+    "size": 14876,
+    "sha256": "156650610835fe32914722ecfc8dab0ebbb84795e201b842158afa0ea873cfa4"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2",
+    "status": "saved",
+    "path": "assets/9a9d79976620ef8a_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5008,
+    "sha256": "eac614c07305eb019a65be8876f3f563462626f70ae1845e14a5027361d77fa1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/c4a059ade6ce3e1f_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 7948,
+    "sha256": "3380ca07336aca88710606a065871d156cd513642e4dd3847ae9c0aadbf7154c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2",
+    "status": "saved",
+    "path": "assets/6968a98d8b5746bc_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5996,
+    "sha256": "c727042ba9c59613d37cc97a464f5492c891cf2c0251a36d76ae09c4a6b59fcd"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/ba0f6e14ccf68c52_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 6944,
+    "sha256": "04d65f6a36dfdc86cd8985b5a76477459e8cd2dcdb8aa7a6c04166eba6cfc4d0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2",
+    "status": "saved",
+    "path": "assets/ef26fd29699ea613_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 5824,
+    "sha256": "a33512ad87ab43143f32bb72a12f632c548492d0c9812639e2d96f6c5ec165b3"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2",
+    "status": "saved",
+    "path": "assets/c210d2f19c1bc5fa_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2",
+    "content_type": "font/woff2",
+    "size": 22928,
+    "sha256": "bdfe6be41d09ed9bb7084c79c799baf380b43fd81474ab57f1099d177ddd476d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
+    "final_url": "https://fonts.gstatic.com/s/sourcesanspro/v23/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
+    "status": "saved",
+    "path": "assets/18dad9070723a9b4_6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2",
+    "content_type": "font/woff2",
+    "size": 14724,
+    "sha256": "06b675a649489d21b7fd33f19b1c6d37e8bd778ded07ecfec26bbc8f11e694f4"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap",
+    "final_url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap",
+    "status": "saved",
+    "path": "assets/79d6ba4bcf93d340_css2.css",
+    "content_type": "text/css",
+    "size": 23989,
+    "sha256": "a16143158d0b692f1f8fe317c2e311e5a966d0827550b93b0c8ce7007e4d5de0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iIq129k.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iIq129k.woff2",
+    "status": "saved",
+    "path": "assets/f6b58b68d910b250_F63fjptAgt5VM-kVkqdyU8n1iIq129k.woff2",
+    "content_type": "font/woff2",
+    "size": 6912,
+    "sha256": "f8c22ec1804bd6966b70f43ac7c327025645b4c09597117fca2a5a6c750106fe"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1isq129k.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1isq129k.woff2",
+    "status": "saved",
+    "path": "assets/796a2fec34670bad_F63fjptAgt5VM-kVkqdyU8n1isq129k.woff2",
+    "content_type": "font/woff2",
+    "size": 8356,
+    "sha256": "7635422bd10ddbbcb0e0caa1154b928298f5c8319b8c00b30978d4395f4783ce"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iAq129k.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iAq129k.woff2",
+    "status": "saved",
+    "path": "assets/4d7e3ad8e3636c41_F63fjptAgt5VM-kVkqdyU8n1iAq129k.woff2",
+    "content_type": "font/woff2",
+    "size": 5868,
+    "sha256": "62632b6375305e70ddcafdd895218e6ae41a184fcd280a69c739460604ca00a9"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iEq129k.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1iEq129k.woff2",
+    "status": "saved",
+    "path": "assets/3906014d7d0cc614_F63fjptAgt5VM-kVkqdyU8n1iEq129k.woff2",
+    "content_type": "font/woff2",
+    "size": 13348,
+    "sha256": "6bc0f226a5b7884a8170e3f62c63d7675609d4631bdc5931b5cdab81821f00eb"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2",
+    "status": "saved",
+    "path": "assets/c6280bccb1bc37d6_F63fjptAgt5VM-kVkqdyU8n1i8q1w.woff2",
+    "content_type": "font/woff2",
+    "size": 14708,
+    "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl1FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl1FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/d32e299fbb571e6d_F6qfjptAgt5VM-kVkqdyU8n3vAOwl1FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 7692,
+    "sha256": "83109cdd4f8665b475dfc11d61bd44da328bf7e6eab3d3953d39c49b1b9f6015"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlRFgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlRFgtIU.woff2",
+    "status": "saved",
+    "path": "assets/907f778c10157b1e_F6qfjptAgt5VM-kVkqdyU8n3vAOwlRFgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 9352,
+    "sha256": "2b05a8695c7f9f4abd7178b279646a3b005a8ce57546bef6fd145f25d131e0aa"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl9FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl9FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/ee26fbfd02a4f65d_F6qfjptAgt5VM-kVkqdyU8n3vAOwl9FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 6932,
+    "sha256": "51b74d53e106ba8a26dd33464b231a562069be2a234b923c115beb622e6f6bc6"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/297e1be4eff5c91b_F6qfjptAgt5VM-kVkqdyU8n3vAOwl5FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 14328,
+    "sha256": "32057cf50dd14bdb21a2c93766c4a2c43e4abe688ea3922df3203cac7751a98b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2",
+    "status": "saved",
+    "path": "assets/413fd9990b6f2612_F6qfjptAgt5VM-kVkqdyU8n3vAOwlBFgg.woff2",
+    "content_type": "font/woff2",
+    "size": 15620,
+    "sha256": "0d1f0b8d0722224e32e9f28261bdc86c79115be73444ae5eceb73976a1bcdf83"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl1FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl1FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/1df8786dadbd080b_F6qfjptAgt5VM-kVkqdyU8n3pQPwl1FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 7184,
+    "sha256": "31fbbf2279dd1bdfb9176a5d61dd85d77206ccba92a43ea5665210ee4ef9b6fa"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlRFgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlRFgtIU.woff2",
+    "status": "saved",
+    "path": "assets/a433fe1b989648ee_F6qfjptAgt5VM-kVkqdyU8n3pQPwlRFgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 8676,
+    "sha256": "104701bedfa06b56abba3e273f3ed74d7235d02c00ddc6ca942d65e2940fe6fe"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl9FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl9FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/83f217b7fade4c5f_F6qfjptAgt5VM-kVkqdyU8n3pQPwl9FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 6068,
+    "sha256": "6de519604eba816d624fbe830bff8123d8e8fd4921d60182b442adc8e9d66c19"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FgtIU.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FgtIU.woff2",
+    "status": "saved",
+    "path": "assets/38bee5c1eaeec1cb_F6qfjptAgt5VM-kVkqdyU8n3pQPwl5FgtIU.woff2",
+    "content_type": "font/woff2",
+    "size": 13380,
+    "sha256": "5b9b81f54dd69635c7adcaacd4c4545a73fe4809c528e22734b238a83a74135f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2",
+    "status": "saved",
+    "path": "assets/df7d37671b640d29_F6qfjptAgt5VM-kVkqdyU8n3pQPwlBFgg.woff2",
+    "content_type": "font/woff2",
+    "size": 14908,
+    "sha256": "4f84d86cfd060f4ded334358ff8a4c81d4db2ed5addd568359d693f44a87765a"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap",
+    "final_url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap",
+    "status": "saved",
+    "path": "assets/d7ee9fbaa9318680_css2.css",
+    "content_type": "text/css",
+    "size": 5401,
+    "sha256": "9d2982def40d687974f21bde113e47a87a4d7ee7a61e2156dde148605aab17cb"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_AMS-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_AMS-Regular.woff2",
+    "status": "saved",
+    "path": "assets/79ba394f57129ebd_KaTeX_AMS-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 31136,
+    "sha256": "15df487e2d49d960851524efb8c1fcca6b1197890cf4309f05c29d5010adcf32"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_AMS-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_AMS-Regular.woff",
+    "status": "saved",
+    "path": "assets/a9880e93311bc37a_KaTeX_AMS-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 36912,
+    "sha256": "f5b0e1ff158f892d45bbd24799d83b3f046ea492b248674a7d2e26787ff9f5bd"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_AMS-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Bold.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Bold.woff2",
+    "status": "saved",
+    "path": "assets/a3fd7b5a929b80a2_KaTeX_Caligraphic-Bold.woff2",
+    "content_type": "application/octet-stream",
+    "size": 8392,
+    "sha256": "4b4d0fa429e52f14c25e781e6dc8651e60e2c27a610ab07ca81aa49217250cd5"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Bold.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Bold.woff",
+    "status": "saved",
+    "path": "assets/c1eaa3aa938fb8cd_KaTeX_Caligraphic-Bold.woff",
+    "content_type": "application/octet-stream",
+    "size": 9376,
+    "sha256": "3cc9328f43e5092aaaebd6b32902e53b6d770b4ff17e8b2c47708d7b2c83a2ce"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Bold.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Regular.woff2",
+    "status": "saved",
+    "path": "assets/9c02ba2467533755_KaTeX_Caligraphic-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 8248,
+    "sha256": "86f923f6b2ba9aa499e76a8e85c9516a19fa824b5f19b0279bb7079a4dac672c"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Regular.woff",
+    "status": "saved",
+    "path": "assets/8235e37290381b72_KaTeX_Caligraphic-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 9148,
+    "sha256": "283580ac91c54b6fa655842bfccf5ca0b5406e187d4f81c3b59ef2fd1dd31366"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Caligraphic-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Bold.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Bold.woff2",
+    "status": "saved",
+    "path": "assets/865850009fda567c_KaTeX_Fraktur-Bold.woff2",
+    "content_type": "application/octet-stream",
+    "size": 13912,
+    "sha256": "f1527a373f9e2f3b9b9a44d5a9f4fcc225fe15b9c64735b434de8a5d93fcdf12"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Bold.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Bold.woff",
+    "status": "saved",
+    "path": "assets/5fab0b418ac86277_KaTeX_Fraktur-Bold.woff",
+    "content_type": "application/octet-stream",
+    "size": 16208,
+    "sha256": "cb6b7776d09864b2dc99c1ae5ee3659a7115db75b6ed660def2161968a2437c2"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Bold.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Regular.woff2",
+    "status": "saved",
+    "path": "assets/4878ee3385ccbf4f_KaTeX_Fraktur-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 13668,
+    "sha256": "df5e2dff7ff874a1c50566b93ea32bdf9b219fb1646240ad61ad332c950cfa9d"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Regular.woff",
+    "status": "saved",
+    "path": "assets/e8c784f622189878_KaTeX_Fraktur-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 15880,
+    "sha256": "10914c41ecc86f46941584f301555614fe8c59463e0452bef84dfd999a56adcc"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Fraktur-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Bold.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Bold.woff2",
+    "status": "saved",
+    "path": "assets/f43b8243dc4fe131_KaTeX_Main-Bold.woff2",
+    "content_type": "application/octet-stream",
+    "size": 29932,
+    "sha256": "2eb5660215fd2009a794b550df1b19df65acda11f4dff65d91a684f061214b55"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Bold.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Bold.woff",
+    "status": "saved",
+    "path": "assets/2b02b98a85e1730c_KaTeX_Main-Bold.woff",
+    "content_type": "application/octet-stream",
+    "size": 35056,
+    "sha256": "eebf6eacab4b4238f927271da3bc942970ba7dcdeb6226a0b893dba3f73801ef"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Bold.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-BoldItalic.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-BoldItalic.woff2",
+    "status": "saved",
+    "path": "assets/39b7174b778740f5_KaTeX_Main-BoldItalic.woff2",
+    "content_type": "application/octet-stream",
+    "size": 21244,
+    "sha256": "27fccaf740860a615575c6af8549677fdb33401266cab7caa1765f16e0d57a42"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-BoldItalic.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-BoldItalic.woff",
+    "status": "saved",
+    "path": "assets/ec2a5e67350856ea_KaTeX_Main-BoldItalic.woff",
+    "content_type": "application/octet-stream",
+    "size": 24500,
+    "sha256": "120253ea1310e3b80891610430105b0226766a4fa3d2c80f22c2cf887d84fd79"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-BoldItalic.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Italic.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Italic.woff2",
+    "status": "saved",
+    "path": "assets/870a20dd93364ebc_KaTeX_Main-Italic.woff2",
+    "content_type": "application/octet-stream",
+    "size": 22076,
+    "sha256": "e5d73a831c38e3782f1698d94716025e26a59d34272bcf9ac7ab188d2cc9af16"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Italic.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Italic.woff",
+    "status": "saved",
+    "path": "assets/fb125034e93bb3a8_KaTeX_Main-Italic.woff",
+    "content_type": "application/octet-stream",
+    "size": 25352,
+    "sha256": "a4f24d9b4244d4341ba0214cac621ec5727218df842af6de8e228aae985b5512"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Italic.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Regular.woff2",
+    "status": "saved",
+    "path": "assets/e9d46d978ceeda47_KaTeX_Main-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 32312,
+    "sha256": "7b7be7af132561e043a429328fcde231634bfeace1c9e3024887fc4a6f09b6bf"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Regular.woff",
+    "status": "saved",
+    "path": "assets/97361ec4b789b8cf_KaTeX_Main-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 37856,
+    "sha256": "0b9f6662c0c07fbd4c68949975aa6cb8d3881a86f9e6375af5b3bc3742f25273"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Main-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-BoldItalic.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-BoldItalic.woff2",
+    "status": "saved",
+    "path": "assets/8a7a6c7e49f73409_KaTeX_Math-BoldItalic.woff2",
+    "content_type": "application/octet-stream",
+    "size": 21192,
+    "sha256": "3467e032f722c3b5e0254862103bd24182049cd8781b86ffe2a9c8d77511e43f"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-BoldItalic.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-BoldItalic.woff",
+    "status": "saved",
+    "path": "assets/fb55b8a2a61364da_KaTeX_Math-BoldItalic.woff",
+    "content_type": "application/octet-stream",
+    "size": 23980,
+    "sha256": "82880d882256c6098e5c4a8bdb8f67fbbccb42bf33a5b68e3662bd9bf1f34448"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-BoldItalic.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-Italic.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-Italic.woff2",
+    "status": "saved",
+    "path": "assets/7685ad41b2edffe8_KaTeX_Math-Italic.woff2",
+    "content_type": "application/octet-stream",
+    "size": 21668,
+    "sha256": "9339484861f622622c4d4fecffcb05da810407cc23305e8799bc1100329223b9"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-Italic.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-Italic.woff",
+    "status": "saved",
+    "path": "assets/b381349bef5224aa_KaTeX_Math-Italic.woff",
+    "content_type": "application/octet-stream",
+    "size": 24668,
+    "sha256": "252ec45ca7d1b70a8ee070ed0b8863f5554e2c5190cf409a6b3179a0ebe0cf26"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Math-Italic.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Bold.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Bold.woff2",
+    "status": "saved",
+    "path": "assets/1b30dca894865f96_KaTeX_SansSerif-Bold.woff2",
+    "content_type": "application/octet-stream",
+    "size": 15296,
+    "sha256": "f6f61cab7740ef34b23a8e941760bf54a5c3e8975d70d5cea3c244bbf699fad9"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Bold.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Bold.woff",
+    "status": "saved",
+    "path": "assets/947875cd20becdeb_KaTeX_SansSerif-Bold.woff",
+    "content_type": "application/octet-stream",
+    "size": 17988,
+    "sha256": "08f69ff860ef323f559c5a640b7ec5f3dc469a01b7159cddfa4286acb629c360"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Bold.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Italic.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Italic.woff2",
+    "status": "saved",
+    "path": "assets/47116088f919c7f6_KaTeX_SansSerif-Italic.woff2",
+    "content_type": "application/octet-stream",
+    "size": 14484,
+    "sha256": "66034ad79f0f68739b7be69771748a1c61d524d4dbba570905318595151377ad"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Italic.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Italic.woff",
+    "status": "saved",
+    "path": "assets/1ddeac7ddc515a3c_KaTeX_SansSerif-Italic.woff",
+    "content_type": "application/octet-stream",
+    "size": 17044,
+    "sha256": "1182f7b49fead9d22f3f14541e71e3331977a0441643c56664806949b96bed5a"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Italic.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Regular.woff2",
+    "status": "saved",
+    "path": "assets/1ddc2997496cad79_KaTeX_SansSerif-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 13300,
+    "sha256": "2673b817a2a74139b1d9bd2f9d70148426346cbae579a5141abd839436126e2e"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Regular.woff",
+    "status": "saved",
+    "path": "assets/dffd294a255af443_KaTeX_SansSerif-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 15712,
+    "sha256": "dc8093175e397ea58bed6a7bcc810e05e2125742763f1599babaa926461a32cb"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_SansSerif-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Script-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Script-Regular.woff2",
+    "status": "saved",
+    "path": "assets/e77fe0e1abe172cd_KaTeX_Script-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 11792,
+    "sha256": "2227c4c4953e65cbf7f67e83c12a27243478265619aae313353fda3b1458ed2c"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Script-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Script-Regular.woff",
+    "status": "saved",
+    "path": "assets/8875cf4af73c1f0c_KaTeX_Script-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 12992,
+    "sha256": "611edea9609d5b7728e2df2cb6034ea0aea459c7c06e6d8b8f83ca21a9f440d2"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Script-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size1-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size1-Regular.woff2",
+    "status": "saved",
+    "path": "assets/1b7ec46d5df31558_KaTeX_Size1-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 5332,
+    "sha256": "01e074cc3dcd7140710315dc18102897bae0c0771841bc326bfe8f934276cb82"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size1-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size1-Regular.woff",
+    "status": "saved",
+    "path": "assets/d4a00997c5188f1c_KaTeX_Size1-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 6300,
+    "sha256": "41e4c13808366d1e102f771dd3efcad922395b52c23fd68c2e3a1adf417056e7"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size1-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size2-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size2-Regular.woff2",
+    "status": "saved",
+    "path": "assets/d047f19e2f305b92_KaTeX_Size2-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 5080,
+    "sha256": "579306c793600772ef7171c2a304aec8d6de7bc30ab2b4598ace25699ee6d1e2"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size2-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size2-Regular.woff",
+    "status": "saved",
+    "path": "assets/b7dbb2a6a5165bb8_KaTeX_Size2-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 6012,
+    "sha256": "38e966e4ea4cc3f91f7044ec8cb4ff86808af096f74997c683b708f83e2a32d5"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size2-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size3-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size3-Regular.woff2",
+    "status": "saved",
+    "path": "assets/8eac9374272c1f8d_KaTeX_Size3-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 3400,
+    "sha256": "325df4744e9e1c1e978c78242048eb5462e37d64db2e6da435a730befee8ccbc"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size3-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size3-Regular.woff",
+    "status": "saved",
+    "path": "assets/d1497cf7669352f2_KaTeX_Size3-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 4148,
+    "sha256": "14c6e060c8735876e3cd66fc3c490856097cc149279656c53e54557bea47d5c3"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size3-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size4-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size4-Regular.woff2",
+    "status": "saved",
+    "path": "assets/918a1d9b0b5aee11_KaTeX_Size4-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 4720,
+    "sha256": "0b27467a453fa09303e015943b8869d9bf7ab8b97b437a95b8331fa4f8f2aab0"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size4-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size4-Regular.woff",
+    "status": "saved",
+    "path": "assets/12b4769301201268_KaTeX_Size4-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 5820,
+    "sha256": "9d4aa93853e15f82ea86daf02568c7bf32986f7af33bcb810b86da39b712f5a5"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Size4-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Typewriter-Regular.woff2",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Typewriter-Regular.woff2",
+    "status": "saved",
+    "path": "assets/06e69bf5b3c124a1_KaTeX_Typewriter-Regular.woff2",
+    "content_type": "application/octet-stream",
+    "size": 16868,
+    "sha256": "af1d60bcfc57febf32ab10cc5467219f76117ef82fa663f92db22194f376b424"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Typewriter-Regular.woff",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Typewriter-Regular.woff",
+    "status": "saved",
+    "path": "assets/3bae20054cfd0c72_KaTeX_Typewriter-Regular.woff",
+    "content_type": "application/octet-stream",
+    "size": 19700,
+    "sha256": "15978c32403fa18a1843e66b0f0f5a9ca3c6a33aa128c6dfb4aa07251ab6990b"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/fonts/KaTeX_Typewriter-Regular.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css",
+    "final_url": "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css",
+    "status": "saved",
+    "path": "assets/f898c013adf3226c_katex.min.css",
+    "content_type": "text/css",
+    "size": 22916,
+    "sha256": "8567a7c929ae6c5c44d5e8b9d3b2c2fececa29931b3f58926667612d9ba2fd8f"
+  },
+  {
+    "url": "https://huggingface.co/js/script.js",
+    "final_url": "https://huggingface.co/js/script.js",
+    "status": "saved",
+    "path": "assets/7e296b8dc6670981_script.js",
+    "content_type": "application/javascript",
+    "size": 5988,
+    "sha256": "b1555cae785bb3d88f89e2e6c3b60f98d35250b5be3f0a3e717a0989959684e8"
+  },
+  {
+    "url": "https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js",
+    "final_url": "https://de5282c3ca0c.edge.sdk.awswaf.com/de5282c3ca0c/526cf06acb0d/challenge.js",
+    "status": "saved",
+    "path": "assets/95a2d306e58def3d_challenge.js",
+    "content_type": "text/javascript",
+    "size": 1351935,
+    "sha256": "3331d8ddbf922bb7b7419432b68ecbf1daeeae948b4041f3e4a24582ad4343d2"
+  },
+  {
+    "url": "https://js.stripe.com/v3/",
+    "final_url": "https://js.stripe.com/v3/",
+    "status": "saved",
+    "path": "assets/e99cf18cef8d5b4a_asset.js",
+    "content_type": "text/javascript",
+    "size": 1008785,
+    "sha256": "e1222980728ff291b56acff91c32809619c8c34b029276561f8522a2a61864ab"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ClientErrorCatcher-BnCp7GR1.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ClientErrorCatcher-BnCp7GR1.js",
+    "status": "saved",
+    "path": "assets/bf4eaa16c1b45e9f_ClientErrorCatcher-BnCp7GR1.js",
+    "content_type": "text/javascript",
+    "size": 3011,
+    "sha256": "eb706a124becfa5de0087cf493a7bf33ffd7c248ade4c379adf923787d8cbbb4"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ViewUtils-DbZqrYcO.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ViewUtils-DbZqrYcO.js",
+    "status": "saved",
+    "path": "assets/b6ea1f1fd4b35703_ViewUtils-DbZqrYcO.js",
+    "content_type": "text/javascript",
+    "size": 109746,
+    "sha256": "384b6ed6243d99e62a4eef06f9cbcad97d0c244b0934fbd2d8f370f56a553c42"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/chunk-BKBlUVio.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/chunk-BKBlUVio.js",
+    "status": "saved",
+    "path": "assets/e86a3626d09e5ac6_chunk-BKBlUVio.js",
+    "content_type": "text/javascript",
+    "size": 685,
+    "sha256": "c62a259caf983f4ea8940cae8d9abe35924f21613de275b1102b5f9e6243c126"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/index-client-BJFU2hDo.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/index-client-BJFU2hDo.js",
+    "status": "saved",
+    "path": "assets/1ab5ef3756a60d3f_index-client-BJFU2hDo.js",
+    "content_type": "text/javascript",
+    "size": 76897,
+    "sha256": "18c0e5510a4e5e04fe9e84ec0bfe218b45ac23ecb86f98da58aab5375ee840b6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/disclose-version-CYLFKb47.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/disclose-version-CYLFKb47.js",
+    "status": "saved",
+    "path": "assets/3d1630e0d2398d00_disclose-version-CYLFKb47.js",
+    "content_type": "text/javascript",
+    "size": 65,
+    "sha256": "0214edcff77242079f540507a53803aa22d857b6ad673e60e39748b6c7aa08c1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/DeviceProvider-C41xuiG1.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/DeviceProvider-C41xuiG1.js",
+    "status": "saved",
+    "path": "assets/cb812c392ae6870e_DeviceProvider-C41xuiG1.js",
+    "content_type": "text/javascript",
+    "size": 70,
+    "sha256": "7b150fd2d10c6da77f8fbc9a536b05095a8ce0ea97501b69db1f2533bbde461e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/DeviceProvider-DIoV6wFW.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/DeviceProvider-DIoV6wFW.js",
+    "status": "saved",
+    "path": "assets/307079ddf28e8fb2_DeviceProvider-DIoV6wFW.js",
+    "content_type": "text/javascript",
+    "size": 471,
+    "sha256": "bd5d507f5e6184b42067ec77b4912379b31736e8cec545e85648212abe2b3ddf"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/legacy-CryiGEH9.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/legacy-CryiGEH9.js",
+    "status": "saved",
+    "path": "assets/2ce670623d45f22e_legacy-CryiGEH9.js",
+    "content_type": "text/javascript",
+    "size": 52,
+    "sha256": "a7c59c709ff224c06ddde49198fdbd642c17d039b863e71984fae600388cd788"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/index-client-DaxueBPK.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/index-client-DaxueBPK.js",
+    "status": "saved",
+    "path": "assets/cea1c7c2a3a30788_index-client-DaxueBPK.js",
+    "content_type": "text/javascript",
+    "size": 35,
+    "sha256": "7de9e6cca2d6ae7ff2f7ac54873b7df93b0be59567afa656a76cce5cebe53a3b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SystemThemeMonitor-N58vuIXK.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SystemThemeMonitor-N58vuIXK.js",
+    "status": "saved",
+    "path": "assets/2bc7fb9382b01391_SystemThemeMonitor-N58vuIXK.js",
+    "content_type": "text/javascript",
+    "size": 667,
+    "sha256": "f58e952398133593fd9e177c18ce1b09c0955558daef735c1088fc242189e99f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SSOBanner-CCmPHdSs.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SSOBanner-CCmPHdSs.js",
+    "status": "saved",
+    "path": "assets/18a78d8e267c8433_SSOBanner-CCmPHdSs.js",
+    "content_type": "text/javascript",
+    "size": 1549,
+    "sha256": "88cfd737f48af1f7ad34f51552495419cc21a3a46d07d1e5fb69a14d14eab28b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModelHeader-_CKfptHu.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModelHeader-_CKfptHu.js",
+    "status": "saved",
+    "path": "assets/5f2da5db95600993_ModelHeader-_CKfptHu.js",
+    "content_type": "text/javascript",
+    "size": 72827,
+    "sha256": "aadab72c80f2843d1e794607713ba58a1fcc88d1b13037eb96a0b80faaf9857e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/esm-DVjRNZav.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/esm-DVjRNZav.js",
+    "status": "saved",
+    "path": "assets/6abe2a9f6471d4d3_esm-DVjRNZav.js",
+    "content_type": "text/javascript",
+    "size": 231869,
+    "sha256": "5e83290b90ef4280a8b3934dcb178ff9c5a3c82c3241b38d9480a120a91a2141"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModelLibrary-DI-cSG8I.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModelLibrary-DI-cSG8I.js",
+    "status": "saved",
+    "path": "assets/43c4fa166a2f20af_ModelLibrary-DI-cSG8I.js",
+    "content_type": "text/javascript",
+    "size": 21867,
+    "sha256": "e3000bf07b70303150a62ed0c1eff59647ad895e1192087fcbfb5c114209c583"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/browser-CW1QABlG.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/browser-CW1QABlG.js",
+    "status": "saved",
+    "path": "assets/1f63026827fb1a35_browser-CW1QABlG.js",
+    "content_type": "text/javascript",
+    "size": 17781,
+    "sha256": "15c55abaa4c70d25f60390137b5c709378bf03b162b26b100da0cdd1c04810cc"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Dropdown-ubkKiNga.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Dropdown-ubkKiNga.js",
+    "status": "saved",
+    "path": "assets/3e70f228b35f4f25_Dropdown-ubkKiNga.js",
+    "content_type": "text/javascript",
+    "size": 5479,
+    "sha256": "687423570075e2035c68c47e07b58e35a3b4e7f856a9729836e8cf97cdaf6bb8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaret-BqgSRpfe.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaret-BqgSRpfe.js",
+    "status": "saved",
+    "path": "assets/f0f8d30ae42c3d37_IconCaret-BqgSRpfe.js",
+    "content_type": "text/javascript",
+    "size": 572,
+    "sha256": "c6ed444b6c8b442a7b4c71f3b599ff70665413610be9bc2e9b3b04cee5d3e72b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretDownV2-CnOpaljR.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretDownV2-CnOpaljR.js",
+    "status": "saved",
+    "path": "assets/b8b9f0b0276f53b3_IconCaretDownV2-CnOpaljR.js",
+    "content_type": "text/javascript",
+    "size": 3078,
+    "sha256": "1834eba1a45969efbc54bf445a11c00ffa406101bcaaf180a592fe73a4060e6d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHermesAgent-BtVZ4vFm.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHermesAgent-BtVZ4vFm.js",
+    "status": "saved",
+    "path": "assets/244ac110d109379a_IconHermesAgent-BtVZ4vFm.js",
+    "content_type": "text/javascript",
+    "size": 91999,
+    "sha256": "f50fad6ffe2e7115d2121776526b005923c9613ea61abd6d8e3e0ef2930b3bbe"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconKaggle-DyzAfSQv.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconKaggle-DyzAfSQv.js",
+    "status": "saved",
+    "path": "assets/c259f113017efc9a_IconKaggle-DyzAfSQv.js",
+    "content_type": "text/javascript",
+    "size": 3055,
+    "sha256": "26e3d21c5002e052193ad3374b8b362b6381a658db1b959170a0920166e80451"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHuggingChat-DRrGKQZw.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHuggingChat-DRrGKQZw.js",
+    "status": "saved",
+    "path": "assets/f30d7d12e4afd28c_IconHuggingChat-DRrGKQZw.js",
+    "content_type": "text/javascript",
+    "size": 682,
+    "sha256": "cf4c83db140a50757f8a001b077e1ebe287dba881237721c890c3c1b764a3005"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconInfo-BYschXKN.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconInfo-BYschXKN.js",
+    "status": "saved",
+    "path": "assets/790c2f48ebf1e80e_IconInfo-BYschXKN.js",
+    "content_type": "text/javascript",
+    "size": 758,
+    "sha256": "3c995426146817e7643ca0e2474076c843f7660535d947986e0ce34be26a77e7"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLmStudio-CNX0ifdS.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLmStudio-CNX0ifdS.js",
+    "status": "saved",
+    "path": "assets/5a90627b99403e97_IconLmStudio-CNX0ifdS.js",
+    "content_type": "text/javascript",
+    "size": 1644,
+    "sha256": "6ebe525df10825cb6b483ccd3e00f496ae14b1104bcc1c86b196ee8a723675db"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSettings-BGx7aBiV.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSettings-BGx7aBiV.js",
+    "status": "saved",
+    "path": "assets/769d506f8e7cfed3_IconSettings-BGx7aBiV.js",
+    "content_type": "text/javascript",
+    "size": 1034,
+    "sha256": "0857feb91843215e3918ad1c851de1db51729c5e42aeea4d2bd6256ed14d053b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/InferenceModal-BUYAO05N.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/InferenceModal-BUYAO05N.js",
+    "status": "saved",
+    "path": "assets/6ea9eb96394ed36e_InferenceModal-BUYAO05N.js",
+    "content_type": "text/javascript",
+    "size": 26534,
+    "sha256": "c07508d99b182338652c10e02ca4ec51d2966c23ba92a9cf43654341badf25f8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/esm-CbUhbws4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/esm-CbUhbws4.js",
+    "status": "saved",
+    "path": "assets/0374f202d3ea87dc_esm-CbUhbws4.js",
+    "content_type": "text/javascript",
+    "size": 101653,
+    "sha256": "285e4fd0eb22af86233d6cf25e12b6ac6fc34212088fdfdef6f056932d54c25b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/dist-C_XDEaQ-.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/dist-C_XDEaQ-.js",
+    "status": "saved",
+    "path": "assets/c0d7218d283930b3_dist-C_XDEaQ-.js",
+    "content_type": "text/javascript",
+    "size": 46204,
+    "sha256": "3cff11c657093f889e15bb1b5221771a7ad1410f264d0bb2adb1f8ffb5a6ae1a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/AuthorAvatar-BzoUWSgS.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/AuthorAvatar-BzoUWSgS.js",
+    "status": "saved",
+    "path": "assets/4103d94d9cc595be_AuthorAvatar-BzoUWSgS.js",
+    "content_type": "text/javascript",
+    "size": 1400,
+    "sha256": "7a7ea246888d3f1beb41d7a0dc64d28b8e0e634cc7243871ae9b1c5ba9524d83"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconProSparkle-D7eggp0N.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconProSparkle-D7eggp0N.js",
+    "status": "saved",
+    "path": "assets/6d2b8fb04f708d2d_IconProSparkle-D7eggp0N.js",
+    "content_type": "text/javascript",
+    "size": 1835,
+    "sha256": "8d703f205fc6f7674565c04a2d0698beb356557b8920f6347bfb951095148a37"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconOrgPlan-MdPYcumv.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconOrgPlan-MdPYcumv.js",
+    "status": "saved",
+    "path": "assets/24e04cbde040c94a_IconOrgPlan-MdPYcumv.js",
+    "content_type": "text/javascript",
+    "size": 577,
+    "sha256": "5e961c671162d2446a4646dd99457eb05956e6db2802746111c5b8dc02533bc9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconEnterprise-E36lk7Yq.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconEnterprise-E36lk7Yq.js",
+    "status": "saved",
+    "path": "assets/952f43105179aa25_IconEnterprise-E36lk7Yq.js",
+    "content_type": "text/javascript",
+    "size": 756,
+    "sha256": "206d60c768db2a507864f9016ec4d0f84f7846c4bd0f798b4c14adfb200defe6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconEnterprisePlus-CN-P4uEB.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconEnterprisePlus-CN-P4uEB.js",
+    "status": "saved",
+    "path": "assets/0285ad7dd0d3ffbe_IconEnterprisePlus-CN-P4uEB.js",
+    "content_type": "text/javascript",
+    "size": 1042,
+    "sha256": "b1b7a996ec2d67840d6361dcbfa766dfc269bd257ae1e44f90bf2e7b4a497117"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconTeam-9bj9JP3J.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconTeam-9bj9JP3J.js",
+    "status": "saved",
+    "path": "assets/dea7f767f708bf8c_IconTeam-9bj9JP3J.js",
+    "content_type": "text/javascript",
+    "size": 747,
+    "sha256": "dd0ff78fe83c995e0c271ca600730c61b519fc0fb0bf4dde48f60802cb0f8d79"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconBarChart-CZI-Zw8f.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconBarChart-CZI-Zw8f.js",
+    "status": "saved",
+    "path": "assets/8da1a19118f1bc8b_IconBarChart-CZI-Zw8f.js",
+    "content_type": "text/javascript",
+    "size": 904,
+    "sha256": "c0774f0b8e425b3dc07bcba905fc71ab1ec2f94649595b79784e01cf6db2407f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconFast-BYIjWr2F.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconFast-BYIjWr2F.js",
+    "status": "saved",
+    "path": "assets/1ca05e38fd0557a1_IconFast-BYIjWr2F.js",
+    "content_type": "text/javascript",
+    "size": 1709,
+    "sha256": "44ed1d1e994eb6e5c536e166f13787935fab17222d13c70917bb6fbd91a9fed6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCogFlat-BONT9MV1.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCogFlat-BONT9MV1.js",
+    "status": "saved",
+    "path": "assets/98d83bd8c6f40c1d_IconCogFlat-BONT9MV1.js",
+    "content_type": "text/javascript",
+    "size": 3738,
+    "sha256": "ff086352e3da9d5c2f90fb725817a188eb9ee4de4abb8e957852366fc18a37a6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconFile-Dh7rzU3x.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconFile-Dh7rzU3x.js",
+    "status": "saved",
+    "path": "assets/f8eaa8fa592cd157_IconFile-Dh7rzU3x.js",
+    "content_type": "text/javascript",
+    "size": 710,
+    "sha256": "979aa094f45e065e15fe86f81d64d85b05f89b4b0fe356e47419c7a07987ed1e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconJs-KYmtWfLa.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconJs-KYmtWfLa.js",
+    "status": "saved",
+    "path": "assets/06ed54bd19ee8a25_IconJs-KYmtWfLa.js",
+    "content_type": "text/javascript",
+    "size": 1869,
+    "sha256": "f19076fd8019d6a1e3106222e62be944f123e451092eebbc7650d1ae565d4f1f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconKebabMenu-DCxhB_Do.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconKebabMenu-DCxhB_Do.js",
+    "status": "saved",
+    "path": "assets/2017edda509765f7_IconKebabMenu-DCxhB_Do.js",
+    "content_type": "text/javascript",
+    "size": 639,
+    "sha256": "f9b6a90c861bb9b1a0284ecbd8bc3b03f4be22c3106393d7cdb718e48a8479d5"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPaperClip-BbxxG1kj.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPaperClip-BbxxG1kj.js",
+    "status": "saved",
+    "path": "assets/165e2ad63d6278df_IconPaperClip-BbxxG1kj.js",
+    "content_type": "text/javascript",
+    "size": 911,
+    "sha256": "8f0d5a5f84bfd23b6a8ddea306afb8becfef6704a69d1e6e9217820a411c7437"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconProviderKey-D2Y97z4g.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconProviderKey-D2Y97z4g.js",
+    "status": "saved",
+    "path": "assets/d937b1a8a35a7704_IconProviderKey-D2Y97z4g.js",
+    "content_type": "text/javascript",
+    "size": 2361,
+    "sha256": "c9b340c0a6fdef9d3ec1e602f1dd968fee59147701324c9cd1d16b232a0ca6e0"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconStarFilled-DsKM_Z3g.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconStarFilled-DsKM_Z3g.js",
+    "status": "saved",
+    "path": "assets/93b7e7fd354d0c4a_IconStarFilled-DsKM_Z3g.js",
+    "content_type": "text/javascript",
+    "size": 790,
+    "sha256": "c836063ea0c3416d9c73d19d8fe650a3901cf70348c3ee103421b782cc041dd3"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconTool-wRFS6I_s.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconTool-wRFS6I_s.js",
+    "status": "saved",
+    "path": "assets/a2d80dc25e6988db_IconTool-wRFS6I_s.js",
+    "content_type": "text/javascript",
+    "size": 1115,
+    "sha256": "e498a2cbfdaa073bc58200985788508fa503617378e5c605968ea2ad9cf98e26"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/providers-C-V3TfWS.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/providers-C-V3TfWS.js",
+    "status": "saved",
+    "path": "assets/f67ec437e3c33601_providers-C-V3TfWS.js",
+    "content_type": "text/javascript",
+    "size": 4641,
+    "sha256": "c8810912ad9445f8dc75c7b9c22347367e724920cda6f7cf36fe2d6bca3a9077"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconInferenceNvidia-CoKP2q1_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconInferenceNvidia-CoKP2q1_.js",
+    "status": "saved",
+    "path": "assets/7067d3070fcf5d0a_IconInferenceNvidia-CoKP2q1_.js",
+    "content_type": "text/javascript",
+    "size": 47268,
+    "sha256": "d5780a9bad24aa61894c3c6be866f680ae72a29cc0e148b63f90ebf955df71af"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LabelPro-Dueeojp_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LabelPro-Dueeojp_.js",
+    "status": "saved",
+    "path": "assets/becede8fcea94774_LabelPro-Dueeojp_.js",
+    "content_type": "text/javascript",
+    "size": 670,
+    "sha256": "1d2898dae2fe9870587ff055d01682ebba74e49026da1fac77843db2ce556a6e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModalBody-BTMOabj3.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModalBody-BTMOabj3.js",
+    "status": "saved",
+    "path": "assets/9eced88f2ded2c9e_ModalBody-BTMOabj3.js",
+    "content_type": "text/javascript",
+    "size": 5046,
+    "sha256": "1928bb1197cce0fd6e850cbe863f777f02726b637db08cc82756598c230f27b9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/noBodyScroll-D0EGyPjz.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/noBodyScroll-D0EGyPjz.js",
+    "status": "saved",
+    "path": "assets/1f7997a83f3b079f_noBodyScroll-D0EGyPjz.js",
+    "content_type": "text/javascript",
+    "size": 410,
+    "sha256": "d6d8d0f221384fa1071d66f4ef8043c20db016850df3c824a0c9f44d896aef33"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/MenuHeader-BEc0Zwjz.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/MenuHeader-BEc0Zwjz.js",
+    "status": "saved",
+    "path": "assets/442cd348af494268_MenuHeader-BEc0Zwjz.js",
+    "content_type": "text/javascript",
+    "size": 448,
+    "sha256": "c060ab4799d2ffcd2996cbf625098b97109b9ed5247a6cf2aee0187173fcd967"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/urlWatcher-DMcYty_1.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/urlWatcher-DMcYty_1.js",
+    "status": "saved",
+    "path": "assets/25fd2fef635fd02b_urlWatcher-DMcYty_1.js",
+    "content_type": "text/javascript",
+    "size": 594,
+    "sha256": "5e4507f39b3096ed1bc4cd22fc3a94ad2d77af5d774d8973007c67ef41256d27"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Snippet-D7x-hK4u.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Snippet-D7x-hK4u.js",
+    "status": "saved",
+    "path": "assets/50aae53dcb846fef_Snippet-D7x-hK4u.js",
+    "content_type": "text/javascript",
+    "size": 5271,
+    "sha256": "9c71429a1195cf04f37289ae5166eefb18d92fe485941a1c6d7771ca199decbe"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/CopyButton-b4jUDzCs.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/CopyButton-b4jUDzCs.js",
+    "status": "saved",
+    "path": "assets/2500179b517d641e_CopyButton-b4jUDzCs.js",
+    "content_type": "text/javascript",
+    "size": 2460,
+    "sha256": "3006be4aab7a43dd38c6b91b6fc8b638f8a3e9c3f223632647dadd95e2a3991e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/tooltip-Croa92YH.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/tooltip-Croa92YH.js",
+    "status": "saved",
+    "path": "assets/c1c23105566a6d74_tooltip-Croa92YH.js",
+    "content_type": "text/javascript",
+    "size": 2733,
+    "sha256": "e670875b55fee26d4327a0261c2c56b63e0731c4089efb9b8a731f11e11e6bde"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/position-DbHPasX8.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/position-DbHPasX8.js",
+    "status": "saved",
+    "path": "assets/9229732b70ae7d65_position-DbHPasX8.js",
+    "content_type": "text/javascript",
+    "size": 2409,
+    "sha256": "79e166c88cfc4099e6218e603ddd4611ca38bc1ad2e83b41d2d14ab98f1d3c83"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCopy-CY2VcjFq.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCopy-CY2VcjFq.js",
+    "status": "saved",
+    "path": "assets/82db490f4c092041_IconCopy-CY2VcjFq.js",
+    "content_type": "text/javascript",
+    "size": 714,
+    "sha256": "11daa0d2be73f5b6e9bebcef4233686325aed11d96f282a18de30bceb62d3573"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Popover-_r_n2aja.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Popover-_r_n2aja.js",
+    "status": "saved",
+    "path": "assets/90929d0ef06688b0_Popover-_r_n2aja.js",
+    "content_type": "text/javascript",
+    "size": 4678,
+    "sha256": "16fc13cfc96d4ff39b6ca8a8e474fe1737811949f4fab69764d9eaf36f096a6a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/transition-Dfp5ru1_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/transition-Dfp5ru1_.js",
+    "status": "saved",
+    "path": "assets/bbf9344d36ef5436_transition-Dfp5ru1_.js",
+    "content_type": "text/javascript",
+    "size": 1587,
+    "sha256": "6fb9c00a36de9373d01b887c48b2fbf5f78c4999d85402ef3ac070624d1fcbca"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/outclick-BLI9eXp0.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/outclick-BLI9eXp0.js",
+    "status": "saved",
+    "path": "assets/47a3158322755602_outclick-BLI9eXp0.js",
+    "content_type": "text/javascript",
+    "size": 704,
+    "sha256": "0f7875cd759fb8a0b4e14212afdde34e5b3c36206fc79214368a406e7e803a15"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/portal-DuLtMVse.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/portal-DuLtMVse.js",
+    "status": "saved",
+    "path": "assets/0a5302153387442f_portal-DuLtMVse.js",
+    "content_type": "text/javascript",
+    "size": 161,
+    "sha256": "4d4abdddb7b5ed681cce65085687996f25e46e6ce2863dc850dd3f2d4fa8ab2d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LibraryIcon-wogEUmlr.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LibraryIcon-wogEUmlr.js",
+    "status": "saved",
+    "path": "assets/ae8ce35b351749a0_LibraryIcon-wogEUmlr.js",
+    "content_type": "text/javascript",
+    "size": 1112,
+    "sha256": "3a5c9ae9717ad54b584e4832f3783d93ae40327fc2d74b0e8cf6c11c5e0b1f3c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconExecuTorch-BHiEOapw.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconExecuTorch-BHiEOapw.js",
+    "status": "saved",
+    "path": "assets/9d6b33ceb8169932_IconExecuTorch-BHiEOapw.js",
+    "content_type": "text/javascript",
+    "size": 46849,
+    "sha256": "6823d582d8661289aae3e445c0aa31f09fd36fe0e804b51a447d63e6ac3f8009"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHuggingFace-Cvz6tAVw.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHuggingFace-Cvz6tAVw.js",
+    "status": "saved",
+    "path": "assets/256cb60e3e3e5d3a_IconHuggingFace-Cvz6tAVw.js",
+    "content_type": "text/javascript",
+    "size": 5637,
+    "sha256": "c778887f1b23e2abe0e490439531a4ef50d812ff179165861b0af2c0cbc452e9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconNeMo-DesEmh0F.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconNeMo-DesEmh0F.js",
+    "status": "saved",
+    "path": "assets/38799c9e72acd10e_IconNeMo-DesEmh0F.js",
+    "content_type": "text/javascript",
+    "size": 1457,
+    "sha256": "6f9908af6bf601bde404f22af1e58e3ae52e3039298dc00c6d56f18785b24be0"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LocalAppIcon-F_tcyC81.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LocalAppIcon-F_tcyC81.js",
+    "status": "saved",
+    "path": "assets/a253b55b91acdfd5_LocalAppIcon-F_tcyC81.js",
+    "content_type": "text/javascript",
+    "size": 1196,
+    "sha256": "0a92c2eeacf0cbfa5e30d42098d9f554dbdb16a99529142d19e001096f1c3c4f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconDocker-DNzHEJR4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconDocker-DNzHEJR4.js",
+    "status": "saved",
+    "path": "assets/ad9c1928e0536c17_IconDocker-DNzHEJR4.js",
+    "content_type": "text/javascript",
+    "size": 3690,
+    "sha256": "9e3e32c469391fc1de3496e7876d2c16077ae848a80b37043de9fccbaad207e1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPi-KlqktW0y.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPi-KlqktW0y.js",
+    "status": "saved",
+    "path": "assets/8d0cf36d8483c979_IconPi-KlqktW0y.js",
+    "content_type": "text/javascript",
+    "size": 669,
+    "sha256": "1658e7e7ff89a3e175e5723c0a3f51d5289f91765a478209238117814278b3ed"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModalQuickLinks-DIb-7ZMz.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModalQuickLinks-DIb-7ZMz.js",
+    "status": "saved",
+    "path": "assets/059cb1609a19b255_ModalQuickLinks-DIb-7ZMz.js",
+    "content_type": "text/javascript",
+    "size": 1053,
+    "sha256": "1458aa0b4b49b5f63ae324b7b8a2588244926d4373b85d889306ad0e351fb702"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Types-B1bGkIUv.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Types-B1bGkIUv.js",
+    "status": "saved",
+    "path": "assets/3f3aa69f0f302ade_Types-B1bGkIUv.js",
+    "content_type": "text/javascript",
+    "size": 772,
+    "sha256": "b47b87ade2c71fb8a5cab8f65eec96e755cd2bb66c1d1ea6f6d4d7440ff81c2d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/consts-BKE_Vh37.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/consts-BKE_Vh37.js",
+    "status": "saved",
+    "path": "assets/0d467e0b4fd5d8a5_consts-BKE_Vh37.js",
+    "content_type": "text/javascript",
+    "size": 18591,
+    "sha256": "9fddd133764ab85a7567642b55b92e06a4e7a93f981201440dc69b50d649b470"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/NfaaConstants-DzoyhRG8.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/NfaaConstants-DzoyhRG8.js",
+    "status": "saved",
+    "path": "assets/e38966061c51da33_NfaaConstants-DzoyhRG8.js",
+    "content_type": "text/javascript",
+    "size": 45,
+    "sha256": "bbefadcf9877b95fab1ab03f206f2db747f068de2026079674db0b97f486ff16"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Tags-DQm7_i2Y.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Tags-DQm7_i2Y.js",
+    "status": "saved",
+    "path": "assets/78d6889c9ba6b648_Tags-DQm7_i2Y.js",
+    "content_type": "text/javascript",
+    "size": 1988,
+    "sha256": "01c72dc8a292e7d5a5d8241d927b207cd1ba5685f2bfeabeedbfac324b302713"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/DescriptionTooltip-COVv1OnF.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/DescriptionTooltip-COVv1OnF.js",
+    "status": "saved",
+    "path": "assets/3936f29824a8ac64_DescriptionTooltip-COVv1OnF.js",
+    "content_type": "text/javascript",
+    "size": 884,
+    "sha256": "b5ea992a32adfe7ec3bc3a7740fd4ff93b8f377e44850c48b4283872fbaf182f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/DatasetAndModelActionsDropdown-Zf1ztL7Q.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/DatasetAndModelActionsDropdown-Zf1ztL7Q.js",
+    "status": "saved",
+    "path": "assets/518be1c135d8de92_DatasetAndModelActionsDropdown-Zf1ztL7Q.js",
+    "content_type": "text/javascript",
+    "size": 7269,
+    "sha256": "7aac797a35de7e788959c958a5ef3ae427159e5e48ef3b143912cd4a17e92b0d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/handlers-BU7guL71.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/handlers-BU7guL71.js",
+    "status": "saved",
+    "path": "assets/948b12094ef9a569_handlers-BU7guL71.js",
+    "content_type": "text/javascript",
+    "size": 25332,
+    "sha256": "3f081ecd08404e9efee121dcc6437528e6e20bb35e9bc5f9df8bc44338e180df"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/BillingProducts-BfdKxIdZ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/BillingProducts-BfdKxIdZ.js",
+    "status": "saved",
+    "path": "assets/b2a20877e2b44113_BillingProducts-BfdKxIdZ.js",
+    "content_type": "text/javascript",
+    "size": 38761,
+    "sha256": "5f420b87eb3bac3242bdf5e991acaf116c22429ca77548b50352a59fa0ec4ea1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SpaceHardwareFlavor-nzdSyQ1X.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SpaceHardwareFlavor-nzdSyQ1X.js",
+    "status": "saved",
+    "path": "assets/da2c8fcd0fe0fd7d_SpaceHardwareFlavor-nzdSyQ1X.js",
+    "content_type": "text/javascript",
+    "size": 376,
+    "sha256": "68641c7b5db2feae125ad3cc870df7716d49aed04a6199cd4148a0704f6baa1c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/AddPaymentMethodModal-DtjTO97O.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/AddPaymentMethodModal-DtjTO97O.js",
+    "status": "saved",
+    "path": "assets/8b55535360a1da84_AddPaymentMethodModal-DtjTO97O.js",
+    "content_type": "text/javascript",
+    "size": 13874,
+    "sha256": "cd7ccf2646866bf4e909fe70c6a157d7a050dc308871a5ee90e4deb6aa4b1b42"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/StripeCardUpdateForm-D47Kugm2.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/StripeCardUpdateForm-D47Kugm2.js",
+    "status": "saved",
+    "path": "assets/d8f87f7a0d647b77_StripeCardUpdateForm-D47Kugm2.js",
+    "content_type": "text/javascript",
+    "size": 7449,
+    "sha256": "0ebff4918cf400aba01b0da2fbc8db15d43291436c83ae195746e947874f189d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Spinner-1_RVyzZL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Spinner-1_RVyzZL.js",
+    "status": "saved",
+    "path": "assets/e3379f1c0ba87736_Spinner-1_RVyzZL.js",
+    "content_type": "text/javascript",
+    "size": 736,
+    "sha256": "cf90fa89f0a1af75b39497cb7f87d6c105feb55c1ef70900fc67b3e38f713038"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSpinner-dkpFBhM4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSpinner-dkpFBhM4.js",
+    "status": "saved",
+    "path": "assets/529d201cdf63709a_IconSpinner-dkpFBhM4.js",
+    "content_type": "text/javascript",
+    "size": 759,
+    "sha256": "5c2f990e5cb501df95cb5a2b97a7730b3f5c4bfa4bffdaec349ebfcb175fcddb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/BillingPrepaidCreditsModal-sF-Wk4EP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/BillingPrepaidCreditsModal-sF-Wk4EP.js",
+    "status": "saved",
+    "path": "assets/a386e3898324933c_BillingPrepaidCreditsModal-sF-Wk4EP.js",
+    "content_type": "text/javascript",
+    "size": 1656,
+    "sha256": "98783a2d878077a1c350f10b7f654189c051f58dce943fad948f298ed7bace45"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/BillingPrepaidCreditsForm-Dd_TniE9.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/BillingPrepaidCreditsForm-Dd_TniE9.js",
+    "status": "saved",
+    "path": "assets/f2393e651f4505a1_BillingPrepaidCreditsForm-Dd_TniE9.js",
+    "content_type": "text/javascript",
+    "size": 16832,
+    "sha256": "f2995416803b2071cea9d5c951f23810ac1731cdc525757b2696e4daf7505d1a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/consts-UXHiLDoJ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/consts-UXHiLDoJ.js",
+    "status": "saved",
+    "path": "assets/a5452fe3c4efbf6e_consts-UXHiLDoJ.js",
+    "content_type": "text/javascript",
+    "size": 213,
+    "sha256": "b10d19ab2f3956458e99f543745bc2b915bbe5654eecb3902c945d3c32793773"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconAws-BMa2a0mu.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconAws-BMa2a0mu.js",
+    "status": "saved",
+    "path": "assets/a43170b9c6c10670_IconAws-BMa2a0mu.js",
+    "content_type": "text/javascript",
+    "size": 4188,
+    "sha256": "1bd3dd84b16784ea6bb88f91d3b0bb30f673657f17bb895bed5497098c0a2760"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCreditCard-BNM-ffWs.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCreditCard-BNM-ffWs.js",
+    "status": "saved",
+    "path": "assets/c4b331824f0a41a1_IconCreditCard-BNM-ffWs.js",
+    "content_type": "text/javascript",
+    "size": 758,
+    "sha256": "34aecb5a17a965fca44a108bfd55ec5b3d8c5b0017b36f0b80f62052ce334851"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconWarning-BalZ42st.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconWarning-BalZ42st.js",
+    "status": "saved",
+    "path": "assets/2ac03e820488cd8a_IconWarning-BalZ42st.js",
+    "content_type": "text/javascript",
+    "size": 789,
+    "sha256": "cc6c32334a100ea65ebe6b6a230041c8ad762bb377477607783173986e73b7b6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/StripePaymentIntent-CpjYL2c_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/StripePaymentIntent-CpjYL2c_.js",
+    "status": "saved",
+    "path": "assets/1a695ff41abc070e_StripePaymentIntent-CpjYL2c_.js",
+    "content_type": "text/javascript",
+    "size": 5417,
+    "sha256": "dc313b7218be27d635b460e2965438fb74ab8c4d9162940206ec17eb8e433f5c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPlus-CoD5Y14L.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPlus-CoD5Y14L.js",
+    "status": "saved",
+    "path": "assets/703f6bf029a1ebe0_IconPlus-CoD5Y14L.js",
+    "content_type": "text/javascript",
+    "size": 830,
+    "sha256": "12279219b7b57df4171deb7ad6e19eff19238f4422441567d5ae2fcf0038a9a1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconFan-CzcSsROz.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconFan-CzcSsROz.js",
+    "status": "saved",
+    "path": "assets/59004d3439142960_IconFan-CzcSsROz.js",
+    "content_type": "text/javascript",
+    "size": 1532,
+    "sha256": "4cb3438645974c7956085e09e16c6b848f0b70d123a1268c472331599cc995dc"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconKey-B6fwmkyU.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconKey-B6fwmkyU.js",
+    "status": "saved",
+    "path": "assets/e2547ee9a8d56974_IconKey-B6fwmkyU.js",
+    "content_type": "text/javascript",
+    "size": 764,
+    "sha256": "3fc1c079a37f07f994e843c9a10fa34bf6780449eed097ed489f46f2ce7d5880"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSubscribeDisk-DAi__IdP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSubscribeDisk-DAi__IdP.js",
+    "status": "saved",
+    "path": "assets/6fb1cd700e4afe94_IconSubscribeDisk-DAi__IdP.js",
+    "content_type": "text/javascript",
+    "size": 999,
+    "sha256": "788dc8538f0f6a8d0ec9ea98baae716ba2e921930ced5d1a2fc0028153b6f998"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconVariable-CGVa3U2e.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconVariable-CGVa3U2e.js",
+    "status": "saved",
+    "path": "assets/21858d75a78a7c2e_IconVariable-CGVa3U2e.js",
+    "content_type": "text/javascript",
+    "size": 2318,
+    "sha256": "66d6f489ba6f19c53f5c09b4a74eea41ae4ca7038f3dcc319c8097a5adc742e8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RichTextContent-B0YXGdvP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RichTextContent-B0YXGdvP.js",
+    "status": "saved",
+    "path": "assets/a5b1c8e36579d915_RichTextContent-B0YXGdvP.js",
+    "content_type": "text/javascript",
+    "size": 4000,
+    "sha256": "466d9caba38b12419e1577c9fef894037f1fd105032ca569f041c2f0b550b245"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCube-oTC-n_Pa.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCube-oTC-n_Pa.js",
+    "status": "saved",
+    "path": "assets/7afd25c4f76cb196_IconCube-oTC-n_Pa.js",
+    "content_type": "text/javascript",
+    "size": 1049,
+    "sha256": "1ac280d082ee578f532534074e4cf2893091276706ca152d752d9f21a01dcbb3"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconDataset-gms6xl_a.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconDataset-gms6xl_a.js",
+    "status": "saved",
+    "path": "assets/809cfc93050b8de6_IconDataset-gms6xl_a.js",
+    "content_type": "text/javascript",
+    "size": 1223,
+    "sha256": "d0ff6a2d9bfa0d0c556990c7216faba0aeaaf051a18e5b7ce9045bb81a847210"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconDiscussion-If-uKhTM.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconDiscussion-If-uKhTM.js",
+    "status": "saved",
+    "path": "assets/3db9f02c6d971bc6_IconDiscussion-If-uKhTM.js",
+    "content_type": "text/javascript",
+    "size": 1787,
+    "sha256": "c01b3d6e3064349f3bf0030dac321667066efe44b26677fbead02ebd866f7c28"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPaper-BzJDc7iL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPaper-BzJDc7iL.js",
+    "status": "saved",
+    "path": "assets/7e731fe3cb1892ac_IconPaper-BzJDc7iL.js",
+    "content_type": "text/javascript",
+    "size": 1292,
+    "sha256": "5813a850b1a9f851f9bc7da4c9dc202d9ef80fb3853dbd52e3b406ca7644d2bd"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSpace-Bghxd4rg.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSpace-Bghxd4rg.js",
+    "status": "saved",
+    "path": "assets/823cbdec587ae2cf_IconSpace-Bghxd4rg.js",
+    "content_type": "text/javascript",
+    "size": 1788,
+    "sha256": "1c3a979d4ca25c8b1300c7b3d307292ce1ef84066610dd7065eda1b5815a07c5"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/OrgMention-MQQvZclC.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/OrgMention-MQQvZclC.js",
+    "status": "saved",
+    "path": "assets/329d70a9a243fe18_OrgMention-MQQvZclC.js",
+    "content_type": "text/javascript",
+    "size": 962,
+    "sha256": "7e6f41ddc513f504eae8d6f28e03a45cc6e1d99421d84fcc1e5195eee17ebe6c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/OrgPopover-BuscmH_f.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/OrgPopover-BuscmH_f.js",
+    "status": "saved",
+    "path": "assets/43cbf1dd5429719b_OrgPopover-BuscmH_f.js",
+    "content_type": "text/javascript",
+    "size": 4718,
+    "sha256": "8c9e55bfd558c4f8e07178aba7691c3123748769201f22dba636ec20068d9d52"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/FollowButton-CKUt2eZB.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/FollowButton-CKUt2eZB.js",
+    "status": "saved",
+    "path": "assets/2c196ce3f306c2c9_FollowButton-CKUt2eZB.js",
+    "content_type": "text/javascript",
+    "size": 11885,
+    "sha256": "3875bf4f66bf7df70f38f2b82d4ce4576ef25b0e97456e3b53ae77c87856aacb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconBellWatching-3h7ye3lZ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconBellWatching-3h7ye3lZ.js",
+    "status": "saved",
+    "path": "assets/241e6e1fb02deffe_IconBellWatching-3h7ye3lZ.js",
+    "content_type": "text/javascript",
+    "size": 1685,
+    "sha256": "ce14335154419185efe0ef4afe52c52625d4e0d2fe2549e24e965cfdae92a0b9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCommunity-jshu3iBi.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCommunity-jshu3iBi.js",
+    "status": "saved",
+    "path": "assets/ddf5b84b0d04bc23_IconCommunity-jshu3iBi.js",
+    "content_type": "text/javascript",
+    "size": 3819,
+    "sha256": "5b223991c401d86ef61f8c3efda975abe7904a99b3afcd58aca5cc6fab40af94"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconMerge-CwF5i69l.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconMerge-CwF5i69l.js",
+    "status": "saved",
+    "path": "assets/d5d9cc4b493fa39e_IconMerge-CwF5i69l.js",
+    "content_type": "text/javascript",
+    "size": 2365,
+    "sha256": "0e4cf2c11b31daeb3f1899a76b3370206ed5870291975423a4b3c723bbe7e483"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPeopleFilled-BYUiuLMK.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPeopleFilled-BYUiuLMK.js",
+    "status": "saved",
+    "path": "assets/96bd4291d74728a9_IconPeopleFilled-BYUiuLMK.js",
+    "content_type": "text/javascript",
+    "size": 930,
+    "sha256": "cee0fdac755e02bf31abd6f08f614898f54ef892c7471ec47873ab342d0ade02"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SocialPostCode-CZ1ejGKF.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SocialPostCode-CZ1ejGKF.js",
+    "status": "saved",
+    "path": "assets/9136385a50caa90e_SocialPostCode-CZ1ejGKF.js",
+    "content_type": "text/javascript",
+    "size": 981,
+    "sha256": "ebfabd803f7fa13634d05cffdfc02b77baf03cc5ede78c583877bcb32178c2fb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/UserMention-CqSwh7xe.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/UserMention-CqSwh7xe.js",
+    "status": "saved",
+    "path": "assets/4520ca3252fc1350_UserMention-CqSwh7xe.js",
+    "content_type": "text/javascript",
+    "size": 667,
+    "sha256": "a9a6e371274fc9ce519aa1dfd8cd34c81adc6b1f5f1f38756cce6c85339ab9f2"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/UserPopover-CP41p7l4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/UserPopover-CP41p7l4.js",
+    "status": "saved",
+    "path": "assets/988b3468fae1b9be_UserPopover-CP41p7l4.js",
+    "content_type": "text/javascript",
+    "size": 5431,
+    "sha256": "46436366bda9d42412cf4e0a0922a920d81d4037004e66948a3419d499808b05"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHeartFilled-DQJyoP3q.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHeartFilled-DQJyoP3q.js",
+    "status": "saved",
+    "path": "assets/fb2102cd57ea197f_IconHeartFilled-DQJyoP3q.js",
+    "content_type": "text/javascript",
+    "size": 681,
+    "sha256": "4f6d0f09384621c364f26702f0453f6ee26a270112f0e2007a2a85c1c903e4d3"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconUpvoteFilled-DEfuLuL-.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconUpvoteFilled-DEfuLuL-.js",
+    "status": "saved",
+    "path": "assets/16efbb80cf6d4f8a_IconUpvoteFilled-DEfuLuL-.js",
+    "content_type": "text/javascript",
+    "size": 602,
+    "sha256": "5ae290107f523799d6b975203321997355eccb2e4a1720522bd5e4c14af35cbf"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Spaces-Nwh53SGP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Spaces-Nwh53SGP.js",
+    "status": "saved",
+    "path": "assets/2372c71d5bea0ea0_Spaces-Nwh53SGP.js",
+    "content_type": "text/javascript",
+    "size": 1291,
+    "sha256": "638306cf8851e07e1730d952af83dc8c2621a3d19ba6df27bb5f279c525e0897"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconBellWarning-DEeqzvDU.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconBellWarning-DEeqzvDU.js",
+    "status": "saved",
+    "path": "assets/1cbc8708bcf7a5b7_IconBellWarning-DEeqzvDU.js",
+    "content_type": "text/javascript",
+    "size": 1984,
+    "sha256": "0dda862d86d5388b326b36ab9fbfef3ab5cb370429d0ea53dadca1b901ba1aa0"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCheckmarkFilled-p1WqJiRD.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCheckmarkFilled-p1WqJiRD.js",
+    "status": "saved",
+    "path": "assets/44014c7623596562_IconCheckmarkFilled-p1WqJiRD.js",
+    "content_type": "text/javascript",
+    "size": 1051,
+    "sha256": "7f50ef81078fa40ff4f7a19a18dbcabeb82c3a8637177c033351585a24a67d0a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconDuplicate-CHuS_JLk.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconDuplicate-CHuS_JLk.js",
+    "status": "saved",
+    "path": "assets/e11bbd06822323cb_IconDuplicate-CHuS_JLk.js",
+    "content_type": "text/javascript",
+    "size": 1657,
+    "sha256": "e6cc596e9d20a283f849657e5af4c63bffcd3419e5caa5f519d501831a28276f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconFlag-B4LhZA8-.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconFlag-B4LhZA8-.js",
+    "status": "saved",
+    "path": "assets/417e659d00342cdd_IconFlag-B4LhZA8-.js",
+    "content_type": "text/javascript",
+    "size": 840,
+    "sha256": "0d798f22b43ee5943cae85016966d98a6ad22ebb1ba4c32d44b613ddd44fae88"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLinkExternal-CqN7vZVq.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLinkExternal-CqN7vZVq.js",
+    "status": "saved",
+    "path": "assets/0b8f4bb7da1d05a7_IconLinkExternal-CqN7vZVq.js",
+    "content_type": "text/javascript",
+    "size": 1434,
+    "sha256": "021dc4219b56c5bd5540187029afce366d620db1cd73fad2e8cfee9f01a2a251"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconStop-CrT1IBqL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconStop-CrT1IBqL.js",
+    "status": "saved",
+    "path": "assets/caadbfbe79e0ef1f_IconStop-CrT1IBqL.js",
+    "content_type": "text/javascript",
+    "size": 550,
+    "sha256": "dcb4d6ebac174c19bc3f206a5c74e37774f86a7852491c29f9918f1bdabd5787"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconXet-DMnF3gcq.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconXet-DMnF3gcq.js",
+    "status": "saved",
+    "path": "assets/41f56f06c48336ef_IconXet-DMnF3gcq.js",
+    "content_type": "text/javascript",
+    "size": 893,
+    "sha256": "cd44cfc2833c6a5b7be35171eb50b908deac129969e4d993630fb1aeb40a6f5f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/MarkdownEditor-BkiC4P8Y.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/MarkdownEditor-BkiC4P8Y.js",
+    "status": "saved",
+    "path": "assets/af70ca8758463383_MarkdownEditor-BkiC4P8Y.js",
+    "content_type": "text/javascript",
+    "size": 6701,
+    "sha256": "e763e4d203b033f687fad1c988857d81df7d3c78ec28a5c368d0364b3eb36b47"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/EmojiAutocompleteMenu-BVZDnzG2.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/EmojiAutocompleteMenu-BVZDnzG2.js",
+    "status": "saved",
+    "path": "assets/e40ae44d4236af54_EmojiAutocompleteMenu-BVZDnzG2.js",
+    "content_type": "text/javascript",
+    "size": 7942,
+    "sha256": "3ad2e5a8417a56252cefad481f2a14f5829e718c17d452de11785d727943f425"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/CommitTabs-Dt7fZq10.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/CommitTabs-Dt7fZq10.js",
+    "status": "saved",
+    "path": "assets/dac20accdf7f5434_CommitTabs-Dt7fZq10.js",
+    "content_type": "text/javascript",
+    "size": 1114,
+    "sha256": "2d7d9f2588e8b5708ae4ab77b90a1340460702f913ea85dfbf56f63c8536ace7"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ThemeSwitcher-BRZCpWL4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ThemeSwitcher-BRZCpWL4.js",
+    "status": "saved",
+    "path": "assets/24a5ce121e6ed0e1_ThemeSwitcher-BRZCpWL4.js",
+    "content_type": "text/javascript",
+    "size": 3457,
+    "sha256": "82b1af70a78776b23d5d9ce0100f91f90ef5a0740340425be225a14b3afdf731"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSunFull-DuTA88f9.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSunFull-DuTA88f9.js",
+    "status": "saved",
+    "path": "assets/a39dc40e6526727a_IconSunFull-DuTA88f9.js",
+    "content_type": "text/javascript",
+    "size": 5774,
+    "sha256": "d54137cfae79ff6ce8f61cc183ef4613a0c9568268e3156e39fb05b88ee2dd03"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconImageFilled-D5zXDfw_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconImageFilled-D5zXDfw_.js",
+    "status": "saved",
+    "path": "assets/14750852e2f46f7c_IconImageFilled-D5zXDfw_.js",
+    "content_type": "text/javascript",
+    "size": 965,
+    "sha256": "e9d3b57a5f19014d4bd6fb07d42c03f7597bc961dbfb0e1fd2b9ec7dd6020fc6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/MarkdownContent-BQqPIUPK.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/MarkdownContent-BQqPIUPK.js",
+    "status": "saved",
+    "path": "assets/b94fbd4d2921422d_MarkdownContent-BQqPIUPK.js",
+    "content_type": "text/javascript",
+    "size": 2234,
+    "sha256": "fb19869fb0f3a9b9ae6570c9c1635e76bdf06045a718064cb5eb6fe8b6e40d78"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/interceptImages-BtPSqrO0.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/interceptImages-BtPSqrO0.js",
+    "status": "saved",
+    "path": "assets/3aab2575084482fe_interceptImages-BtPSqrO0.js",
+    "content_type": "text/javascript",
+    "size": 443,
+    "sha256": "f8f5943b556cfe1ec1b6f1613d35e9affa8da8fc525176a792137fece85b8b5b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/MediaViewer-D_nljK5H.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/MediaViewer-D_nljK5H.js",
+    "status": "saved",
+    "path": "assets/4c5b868d72b41c54_MediaViewer-D_nljK5H.js",
+    "content_type": "text/javascript",
+    "size": 9885,
+    "sha256": "758d0625c23dcfc21dc808202f1ecca93c9818cd31e234badc4564c57e9d461d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretDown-C10QBXfq.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretDown-C10QBXfq.js",
+    "status": "saved",
+    "path": "assets/72d9e703ea881dc7_IconCaretDown-C10QBXfq.js",
+    "content_type": "text/javascript",
+    "size": 533,
+    "sha256": "d7c03a2462f1ec355a445ed792b99d089c45b0c4ea9a0400c4360ce4a87fab95"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretLeft-BHTppiDW.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretLeft-BHTppiDW.js",
+    "status": "saved",
+    "path": "assets/4f793be4182f8de8_IconCaretLeft-BHTppiDW.js",
+    "content_type": "text/javascript",
+    "size": 562,
+    "sha256": "0688427d2aeee0558ae61faff510a2dcc62d650e90cf565c942ea4d686cd54e5"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretRight-C6cBgzYQ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretRight-C6cBgzYQ.js",
+    "status": "saved",
+    "path": "assets/3e0cd0265ce14af2_IconCaretRight-C6cBgzYQ.js",
+    "content_type": "text/javascript",
+    "size": 563,
+    "sha256": "f97edca9204348817f5618f1edbd923037c94ed49fb8405160d4f20c14ecb8bd"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretUp-By-kjwQL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretUp-By-kjwQL.js",
+    "status": "saved",
+    "path": "assets/cd0e7d4603a87320_IconCaretUp-By-kjwQL.js",
+    "content_type": "text/javascript",
+    "size": 568,
+    "sha256": "d2d3e2c8ef4a11ac5d7476dacc78a86393dc8fdf8891a3797bbd3fa032c1df46"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconModalityDocument-B74lTemt.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconModalityDocument-B74lTemt.js",
+    "status": "saved",
+    "path": "assets/cbdd109c9799ebe0_IconModalityDocument-B74lTemt.js",
+    "content_type": "text/javascript",
+    "size": 1231,
+    "sha256": "62edb7c1cc33068d3913fef8b64ac83514539e3163cdc7aaeb9a0e0fb25e5d0b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Overlay-gc40BeRj.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Overlay-gc40BeRj.js",
+    "status": "saved",
+    "path": "assets/b9ecd95a329febe0_Overlay-gc40BeRj.js",
+    "content_type": "text/javascript",
+    "size": 1044,
+    "sha256": "0f43777cc52cd0298b630c69403698733fddeecac8c0e8c6459867c04a768e9f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/PDFViewer-BgUZeL2x.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/PDFViewer-BgUZeL2x.js",
+    "status": "saved",
+    "path": "assets/13a802cb6f66d044_PDFViewer-BgUZeL2x.js",
+    "content_type": "text/javascript",
+    "size": 3368,
+    "sha256": "ed0ebb82ac3c39d63ff2577ab71275c8af91d7ce33a73f351a37ef34b25df575"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Media-BjL9nODo.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Media-BjL9nODo.js",
+    "status": "saved",
+    "path": "assets/5153d260bbdce2dd_Media-BjL9nODo.js",
+    "content_type": "text/javascript",
+    "size": 184,
+    "sha256": "a0b78ddfdee6c6c18cae85a2b490cf2f51065e28357abf3c828ff2cd88660b2b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/CloneInstructions-EsVBQo_N.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/CloneInstructions-EsVBQo_N.js",
+    "status": "saved",
+    "path": "assets/06dad0cb9db0cd2d_CloneInstructions-EsVBQo_N.js",
+    "content_type": "text/javascript",
+    "size": 6770,
+    "sha256": "931189c653d57421d25f6de3f332f08f157102bc7c5b262eef66d106c6a18921"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RepoCloning-bY5CjpvD.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RepoCloning-bY5CjpvD.js",
+    "status": "saved",
+    "path": "assets/3f6d1a4331072ae2_RepoCloning-bY5CjpvD.js",
+    "content_type": "text/javascript",
+    "size": 1804,
+    "sha256": "d4c0e962aa5e85372c290b62c80df941d6079c32563192cad5c50ef63a7f9197"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/VolumeOverview-CCl0jfQX.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/VolumeOverview-CCl0jfQX.js",
+    "status": "saved",
+    "path": "assets/de99481bc6cf88d0_VolumeOverview-CCl0jfQX.js",
+    "content_type": "text/javascript",
+    "size": 2842,
+    "sha256": "6726a7cd14cb39aba25cf0eceab51cbdc86f85f152884185addeb7b1bf5640d9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/CitationModal-CL-8jd50.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/CitationModal-CL-8jd50.js",
+    "status": "saved",
+    "path": "assets/2bbda78964ac1bdb_CitationModal-CL-8jd50.js",
+    "content_type": "text/javascript",
+    "size": 1862,
+    "sha256": "41f8a6dd4480dd1afc52f56a1b6c5b943fd42001fc95ce9833bbb0209ceb02cb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconQuote-B3W1O0-T.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconQuote-B3W1O0-T.js",
+    "status": "saved",
+    "path": "assets/c8615297547afded_IconQuote-B3W1O0-T.js",
+    "content_type": "text/javascript",
+    "size": 1016,
+    "sha256": "2343947def5477112a9160237c5809a0910b0a12943e9c591525a2ff0801d5d0"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/CollectionModal-Bj8HTIX3.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/CollectionModal-Bj8HTIX3.js",
+    "status": "saved",
+    "path": "assets/d543ee3ec262c73b_CollectionModal-Bj8HTIX3.js",
+    "content_type": "text/javascript",
+    "size": 5899,
+    "sha256": "97710b83c630ebf84e004458c0069d4edcfe10883d2fabc8d2a9dbe15fa59803"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLockOutline-CqJxo6If.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLockOutline-CqJxo6If.js",
+    "status": "saved",
+    "path": "assets/a3df11f99b479e0a_IconLockOutline-CqJxo6If.js",
+    "content_type": "text/javascript",
+    "size": 528,
+    "sha256": "ffbe5b62b25aada7d0c1d5ff613d97301bb295dc584690915800c44b75049585"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconMute-CnmENGKS.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconMute-CnmENGKS.js",
+    "status": "saved",
+    "path": "assets/cf1fe506284bdc40_IconMute-CnmENGKS.js",
+    "content_type": "text/javascript",
+    "size": 1801,
+    "sha256": "44ed107b57208f2efcb9064562494f3516d82eb18b54fb201ab948b058188ea9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconNotForAllEyes-BBPWe_5p.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconNotForAllEyes-BBPWe_5p.js",
+    "status": "saved",
+    "path": "assets/533a6b8394605b54_IconNotForAllEyes-BBPWe_5p.js",
+    "content_type": "text/javascript",
+    "size": 1156,
+    "sha256": "e5a047db0d9d4edd7fcdcd6b37a980027764c8994794e42cbd1c4aa2aaa7348c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconUnMute-BMv3wbJb.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconUnMute-BMv3wbJb.js",
+    "status": "saved",
+    "path": "assets/4db75a3a58fa18c4_IconUnMute-BMv3wbJb.js",
+    "content_type": "text/javascript",
+    "size": 1931,
+    "sha256": "229bb8a15dd8b5f203f42cb20e80a94dbafa698369583930c578da822a499224"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCluster-B33d_NBu.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCluster-B33d_NBu.js",
+    "status": "saved",
+    "path": "assets/ecaca3a16b52cd22_IconCluster-B33d_NBu.js",
+    "content_type": "text/javascript",
+    "size": 28471,
+    "sha256": "d11e71fc52d065aa45907753bae0e992cbee8cad1f7e81941a344c1b50e78cd7"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCheckmark-Cgooan5m.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCheckmark-Cgooan5m.js",
+    "status": "saved",
+    "path": "assets/944c3e54a1af541f_IconCheckmark-Cgooan5m.js",
+    "content_type": "text/javascript",
+    "size": 577,
+    "sha256": "f2ac7f3142a144e70d689c242369ff5213267d212fd89e140ea2fd684fac1b0e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconGoogleCloud-CHfed5t6.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconGoogleCloud-CHfed5t6.js",
+    "status": "saved",
+    "path": "assets/0fe1539b55c39ae1_IconGoogleCloud-CHfed5t6.js",
+    "content_type": "text/javascript",
+    "size": 1091,
+    "sha256": "8017d578375633556c021def8ad6b18cfe731ace8ecb946498817370f446bbac"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconInferenceEndpoints-DHru5wO1.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconInferenceEndpoints-DHru5wO1.js",
+    "status": "saved",
+    "path": "assets/572d22b3345e3d3d_IconInferenceEndpoints-DHru5wO1.js",
+    "content_type": "text/javascript",
+    "size": 1014,
+    "sha256": "5ddf6a67622b2c852c1717d0a7517b6a6a6fa8dc0a5d756f93912018c0ea57d8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconList-BuquncaV.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconList-BuquncaV.js",
+    "status": "saved",
+    "path": "assets/1c6f71d8341924af_IconList-BuquncaV.js",
+    "content_type": "text/javascript",
+    "size": 948,
+    "sha256": "b472a39ed6f863b189ee0c092eeb60ebc1421b5ad104fa90c6df782bd15fa53e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconRocket-D9_Jdu8q.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconRocket-D9_Jdu8q.js",
+    "status": "saved",
+    "path": "assets/20ee79d3c1a7309a_IconRocket-D9_Jdu8q.js",
+    "content_type": "text/javascript",
+    "size": 1035,
+    "sha256": "5a0f070c306f9488813fce03631e193be9f99d4368edb3f8ea28bc87b4c98130"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Tag-CMO7qCn3.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Tag-CMO7qCn3.js",
+    "status": "saved",
+    "path": "assets/f7192db3bc62886b_Tag-CMO7qCn3.js",
+    "content_type": "text/javascript",
+    "size": 11805,
+    "sha256": "9574ad2283b5f1d184cca7d1663886b115dba677e20e026e147464ed75f0a5de"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/HardwareImage-WNEJCcGA.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/HardwareImage-WNEJCcGA.js",
+    "status": "saved",
+    "path": "assets/b0499d7495e2875f_HardwareImage-WNEJCcGA.js",
+    "content_type": "text/javascript",
+    "size": 1604,
+    "sha256": "fc86564c94107617532e7c1c7cd41660b8bd4624edb9bb44f6c6f52cc292b44d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconQuantized-Dc1eSOim.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconQuantized-Dc1eSOim.js",
+    "status": "saved",
+    "path": "assets/85baa6fbaa501e42_IconQuantized-Dc1eSOim.js",
+    "content_type": "text/javascript",
+    "size": 32308,
+    "sha256": "948c3e375b25d56ca0cded655a418ff4f20cde21645afa570c3668b322e46d47"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconAgent-D_dCt4Bp.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconAgent-D_dCt4Bp.js",
+    "status": "saved",
+    "path": "assets/ea568b60432e5636_IconAgent-D_dCt4Bp.js",
+    "content_type": "text/javascript",
+    "size": 1022,
+    "sha256": "483011366904404b655e6954a72a18903ea3dc90e22e4f0e518143e38c976ebb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLance-By1ZPFvD.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLance-By1ZPFvD.js",
+    "status": "saved",
+    "path": "assets/56ded1a2abe4d2f4_IconLance-By1ZPFvD.js",
+    "content_type": "text/javascript",
+    "size": 42087,
+    "sha256": "cc1f7e5ed3917303b3d335d84c422ca7eeeffe8a77d644b2fea10b2590133a76"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconEvalResults-DKMzZfsQ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconEvalResults-DKMzZfsQ.js",
+    "status": "saved",
+    "path": "assets/4ca47df78a75d583_IconEvalResults-DKMzZfsQ.js",
+    "content_type": "text/javascript",
+    "size": 638,
+    "sha256": "ac32f53c150ad1058a64c559009c60129e6b4a3264995dced7f13a8903c20af4"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHardware-D8Ph2JWP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHardware-D8Ph2JWP.js",
+    "status": "saved",
+    "path": "assets/b4d255daf43d0d90_IconHardware-D8Ph2JWP.js",
+    "content_type": "text/javascript",
+    "size": 2836,
+    "sha256": "c04907f9c8dccf305e284ffe1a270aeb8b27f9ab7ad3dd9a3553651d701311d8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconJson-BnshnAHm.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconJson-BnshnAHm.js",
+    "status": "saved",
+    "path": "assets/eda4c2c844ecd3c0_IconJson-BnshnAHm.js",
+    "content_type": "text/javascript",
+    "size": 1167,
+    "sha256": "6ef19b4203c0c5966b739c60498a0bf9991c1b7bcce6441d307ce91c87fc2fba"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLanguageTag-DirH2jq8.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLanguageTag-DirH2jq8.js",
+    "status": "saved",
+    "path": "assets/727f213039461983_IconLanguageTag-DirH2jq8.js",
+    "content_type": "text/javascript",
+    "size": 3181,
+    "sha256": "d46edc98624d1be7565be38e2dc0a1b00f83fd388271caf9432a571237c70528"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLicense-DMsXYxLm.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLicense-DMsXYxLm.js",
+    "status": "saved",
+    "path": "assets/ac15e851988b1cca_IconLicense-DMsXYxLm.js",
+    "content_type": "text/javascript",
+    "size": 1606,
+    "sha256": "8b43e1fd19a5ba0538a4c94010f14453c546e1130872eec379a5f59355ec6428"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconParquet-DQKe5wYh.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconParquet-DQKe5wYh.js",
+    "status": "saved",
+    "path": "assets/29f931a9ae62d5c3_IconParquet-DQKe5wYh.js",
+    "content_type": "text/javascript",
+    "size": 805,
+    "sha256": "1c3a1e4054f7ea4574eec9740666dee2b602e33a42a9d43bed88ea63e0e1a75f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconTrophy-BQj0xUZE.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconTrophy-BQj0xUZE.js",
+    "status": "saved",
+    "path": "assets/810b3c31fb507122_IconTrophy-BQj0xUZE.js",
+    "content_type": "text/javascript",
+    "size": 1479,
+    "sha256": "85a97b99b3d81655f0420aa0b986539086ed41926e22f4ac5c568a80039014c7"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/KernelHardware-CX6zL34x.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/KernelHardware-CX6zL34x.js",
+    "status": "saved",
+    "path": "assets/4684da8a1bc314e3_KernelHardware-CX6zL34x.js",
+    "content_type": "text/javascript",
+    "size": 1323,
+    "sha256": "88e13fb7a9b9e1371a95f398b8b277481d82644cefe09701a21b60ad476fd139"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/KernelPlatforms-BPgcanrV.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/KernelPlatforms-BPgcanrV.js",
+    "status": "saved",
+    "path": "assets/7355b94f1dcbcee6_KernelPlatforms-BPgcanrV.js",
+    "content_type": "text/javascript",
+    "size": 287,
+    "sha256": "8c8fe64a41ebd19a7c56791964851ede9825761cd134e76dd171188c94eaff72"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconXpu-Cm-STLOL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconXpu-Cm-STLOL.js",
+    "status": "saved",
+    "path": "assets/a2c452cd52c3f3e7_IconXpu-Cm-STLOL.js",
+    "content_type": "text/javascript",
+    "size": 5466,
+    "sha256": "d6d9b66a30d846f1dd979b561538be597dde5044b5d389290c20f178546a1477"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/DatasetLibraryIcon-Cd3hv-Kd.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/DatasetLibraryIcon-Cd3hv-Kd.js",
+    "status": "saved",
+    "path": "assets/849471ee50bd8c56_DatasetLibraryIcon-Cd3hv-Kd.js",
+    "content_type": "text/javascript",
+    "size": 737,
+    "sha256": "040ddfd500cdf031071c26c7e1d003d968a64f0ad25a3ae7d501728afb23a1e0"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconArgilla-UJtNkgdx.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconArgilla-UJtNkgdx.js",
+    "status": "saved",
+    "path": "assets/3e69d3da43c33077_IconArgilla-UJtNkgdx.js",
+    "content_type": "text/javascript",
+    "size": 1505,
+    "sha256": "3595e38957efac14e85cba60b273a37f8804d694c48322b9b0abf28042094905"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/PipelineIcon-iEBlr2V-.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/PipelineIcon-iEBlr2V-.js",
+    "status": "saved",
+    "path": "assets/d4c40bb5f47147f5_PipelineIcon-iEBlr2V-.js",
+    "content_type": "text/javascript",
+    "size": 2091,
+    "sha256": "f64a6a379e10b7d3117258f1ff4273eb30beb7f1d6e1e67592205a199f658af9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconImageTextToVideo-BBQLp1gU.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconImageTextToVideo-BBQLp1gU.js",
+    "status": "saved",
+    "path": "assets/5d0a8cc4a2bfacdf_IconImageTextToVideo-BBQLp1gU.js",
+    "content_type": "text/javascript",
+    "size": 53053,
+    "sha256": "086035ee4073b7f8509a9581d39f3e64e62d1cf3007e547d681c5cfe5d04af10"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconConversational-TZsf9PMC.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconConversational-TZsf9PMC.js",
+    "status": "saved",
+    "path": "assets/392fe8e47de71eb8_IconConversational-TZsf9PMC.js",
+    "content_type": "text/javascript",
+    "size": 1515,
+    "sha256": "8f538a74630bca7381e80547d1d5f681dcbba33858a5c539844fff7dcba4ead6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconReinforcementLearning-DKxC3X5n.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconReinforcementLearning-DKxC3X5n.js",
+    "status": "saved",
+    "path": "assets/dc500078d4a79576_IconReinforcementLearning-DKxC3X5n.js",
+    "content_type": "text/javascript",
+    "size": 847,
+    "sha256": "ceee8e26dfe2a5a947373051c470debd498a2e9ceee81f6b7d29ea9675bcf79c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RepoTabs-BfacI78e.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RepoTabs-BfacI78e.js",
+    "status": "saved",
+    "path": "assets/ba51594b23948315_RepoTabs-BfacI78e.js",
+    "content_type": "text/javascript",
+    "size": 9512,
+    "sha256": "e8ca05e9267687cb82775d2354aafff9fb142a3d144a4842044da10e300f2192"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/UsersListModal-u_r9IP6p.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/UsersListModal-u_r9IP6p.js",
+    "status": "saved",
+    "path": "assets/13a1ebb979ba6877_UsersListModal-u_r9IP6p.js",
+    "content_type": "text/javascript",
+    "size": 7646,
+    "sha256": "a198c16e8667ef4f7f25109c0ea1b810824f0cdd61c7348db86a4a71cbf254a3"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSearch-CU7qfLEU.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSearch-CU7qfLEU.js",
+    "status": "saved",
+    "path": "assets/13e6410dfec70214_IconSearch-CU7qfLEU.js",
+    "content_type": "text/javascript",
+    "size": 602,
+    "sha256": "b2d582f89a797932d0d494bd98657f038dd045f8311df1cf5a67ab580dfc5025"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHeart-BHqIHO_S.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHeart-BHqIHO_S.js",
+    "status": "saved",
+    "path": "assets/bad5a8f14f499c9a_IconHeart-BHqIHO_S.js",
+    "content_type": "text/javascript",
+    "size": 839,
+    "sha256": "00577f4c41dcfd9542b2265e19f91b95553b154789427ef8bd48128fc6042a97"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/PrivateTag-BtiExVWO.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/PrivateTag-BtiExVWO.js",
+    "status": "saved",
+    "path": "assets/cef9427d3f3501f8_PrivateTag-BtiExVWO.js",
+    "content_type": "text/javascript",
+    "size": 385,
+    "sha256": "c463b57892bba04eb142c84473d57809157f2ed9280d81a1929740ccbcc2027f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RepoTitle-n-BhN9dB.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RepoTitle-n-BhN9dB.js",
+    "status": "saved",
+    "path": "assets/91867374be5199bb_RepoTitle-n-BhN9dB.js",
+    "content_type": "text/javascript",
+    "size": 4142,
+    "sha256": "f77c8024b9c75571d2c440d6c6e1a8f9e5a3deb58910a774d043f4e3733b7727"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ResourceGroupTag-ChmwqVjN.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ResourceGroupTag-ChmwqVjN.js",
+    "status": "saved",
+    "path": "assets/6143dc12a64b438e_ResourceGroupTag-ChmwqVjN.js",
+    "content_type": "text/javascript",
+    "size": 544,
+    "sha256": "da4a459b203c523e370d15251c864f4f269f36d72efb83df2377fab0baa2a727"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Tabs-Dab6yn7b.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Tabs-Dab6yn7b.js",
+    "status": "saved",
+    "path": "assets/cfd41db7353ee4f0_Tabs-Dab6yn7b.js",
+    "content_type": "text/javascript",
+    "size": 2328,
+    "sha256": "2a0afd090aecd5d63473c28ae0f515ad42bcb57278d802a1f4e1ecb168fdb046"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RepoHeaderTag-D0ybzoqJ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RepoHeaderTag-D0ybzoqJ.js",
+    "status": "saved",
+    "path": "assets/75f5fcad2aa1c461_RepoHeaderTag-D0ybzoqJ.js",
+    "content_type": "text/javascript",
+    "size": 13532,
+    "sha256": "705a6fca268680cb5e6a8b188efeaf529aafef108e102d09cfac6c932e08ab4c"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/License-B8gbclTP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/License-B8gbclTP.js",
+    "status": "saved",
+    "path": "assets/45be2b3981f1a479_License-B8gbclTP.js",
+    "content_type": "text/javascript",
+    "size": 10648,
+    "sha256": "b20d6ea64c6716ff5d7c50c9deec7fe12b3956fbd013d18382b2858f92b60952"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconDownload-DnbImdNb.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconDownload-DnbImdNb.js",
+    "status": "saved",
+    "path": "assets/1941243842247dd4_IconDownload-DnbImdNb.js",
+    "content_type": "text/javascript",
+    "size": 600,
+    "sha256": "9bd323628609065a83e7e7fa15823e15bb166238f3c77e2bf29b73a823557836"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/PrivateStorageLimitBanner-BggppWo5.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/PrivateStorageLimitBanner-BggppWo5.js",
+    "status": "saved",
+    "path": "assets/8ead413458bd7488_PrivateStorageLimitBanner-BggppWo5.js",
+    "content_type": "text/javascript",
+    "size": 1252,
+    "sha256": "13e70c370404e7a7e45e2d38c81a5ffba4a254034582e4ed9e21bf146873e277"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Toggle-Dras4qrs.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Toggle-Dras4qrs.js",
+    "status": "saved",
+    "path": "assets/0ab01b4e65d35061_Toggle-Dras4qrs.js",
+    "content_type": "text/javascript",
+    "size": 1217,
+    "sha256": "aaa14a97e2db69ececaf3bfdeceb1c270b076468001ef3b76ee844d9743e8e95"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/UnsafeBanner-BJ73sGyi.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/UnsafeBanner-BJ73sGyi.js",
+    "status": "saved",
+    "path": "assets/a72e1e21a915b024_UnsafeBanner-BJ73sGyi.js",
+    "content_type": "text/javascript",
+    "size": 3797,
+    "sha256": "b3825674ee0478fdb4c7e7d048aa027765939af1bcd79e920ce8bbd55786cb03"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconVirusTotal-CXRZ3j_v.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconVirusTotal-CXRZ3j_v.js",
+    "status": "saved",
+    "path": "assets/22736e4c7358e631_IconVirusTotal-CXRZ3j_v.js",
+    "content_type": "text/javascript",
+    "size": 19067,
+    "sha256": "f7800cc7a00f7c34e0a189d4b53d72dd9eaaf14a1ec3dc284a728772f219ce6d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Types-RXM6y2Fe.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Types-RXM6y2Fe.js",
+    "status": "saved",
+    "path": "assets/dbca1794c93cf5b5_Types-RXM6y2Fe.js",
+    "content_type": "text/javascript",
+    "size": 1471,
+    "sha256": "31aead23393b22c993ff0a2bc8803719d1fe4833f9f4cb50ab499d0ae8d43748"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/RepoCodeCopy-BaNcXJEe.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/RepoCodeCopy-BaNcXJEe.js",
+    "status": "saved",
+    "path": "assets/e16a932fd3604e54_RepoCodeCopy-BaNcXJEe.js",
+    "content_type": "text/javascript",
+    "size": 1600,
+    "sha256": "9e7b54c7016ee75a55580d4529843415c71c6ced01734b93b024bae085a3c6c9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SideNavigation-DjQzaUIY.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SideNavigation-DjQzaUIY.js",
+    "status": "saved",
+    "path": "assets/59fac654abe149e2_SideNavigation-DjQzaUIY.js",
+    "content_type": "text/javascript",
+    "size": 2871,
+    "sha256": "6c1919def65e9a1e8cfbda5a77a67ba0ad28929ad2839960efa291316b91cb60"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Hydrater-CnGzRjsL.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Hydrater-CnGzRjsL.js",
+    "status": "saved",
+    "path": "assets/df8e24718fba0068_Hydrater-CnGzRjsL.js",
+    "content_type": "text/javascript",
+    "size": 349,
+    "sha256": "5710ae3c188399b49272c9b630224fb9a05cb50db935dea287bff8a2f0578338"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModelTensorsParams-B93-ktZd.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModelTensorsParams-B93-ktZd.js",
+    "status": "saved",
+    "path": "assets/88077a002c2164e4_ModelTensorsParams-B93-ktZd.js",
+    "content_type": "text/javascript",
+    "size": 23928,
+    "sha256": "8fdcc7271e0b7e3fe78195f287dd45feaca36bd6fed876ec8f48c6610a0796ed"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/browser-CRJCXSmP.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/browser-CRJCXSmP.js",
+    "status": "saved",
+    "path": "assets/763f696ef0fab6cc_browser-CRJCXSmP.js",
+    "content_type": "text/javascript",
+    "size": 85516,
+    "sha256": "5f1f1268e849bc710f17b4c2ad8b5b1e84a939e2b35bed3a795d321cecad0ef1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/FileInfo-Bj_xMmXb.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/FileInfo-Bj_xMmXb.js",
+    "status": "saved",
+    "path": "assets/690ea3891f5e74d2_FileInfo-Bj_xMmXb.js",
+    "content_type": "text/javascript",
+    "size": 15990,
+    "sha256": "bfc94b32b4cc38f7fc3e95d403c79db8763b150308a0ea7df9826ba1c088c8fb"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCaretV2-BaodX-2j.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCaretV2-BaodX-2j.js",
+    "status": "saved",
+    "path": "assets/5a6f3855e1d724b0_IconCaretV2-BaodX-2j.js",
+    "content_type": "text/javascript",
+    "size": 418,
+    "sha256": "e5eeb981608c2bc588ac6ca0685c76575811d0bc26dbdc174c42721284efdb7d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSafetensorsExpanded-Bbibxths.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSafetensorsExpanded-Bbibxths.js",
+    "status": "saved",
+    "path": "assets/83fd94da03674f05_IconSafetensorsExpanded-Bbibxths.js",
+    "content_type": "text/javascript",
+    "size": 1433,
+    "sha256": "1441a4b2fa1c5e07510b8cf0d305fe163dafd2b404b85a210cb9f81fbbc4070f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/BlobContent-CRKHnAy_.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/BlobContent-CRKHnAy_.js",
+    "status": "saved",
+    "path": "assets/fd68dca2001f5c91_BlobContent-CRKHnAy_.js",
+    "content_type": "text/javascript",
+    "size": 3227,
+    "sha256": "f17cbcb3ff7548eb713cf06f3aed651fde40638e922df6520208794897f94898"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCopyLink-CkPoyZFJ.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCopyLink-CkPoyZFJ.js",
+    "status": "saved",
+    "path": "assets/9d545a5b50e53fb4_IconCopyLink-CkPoyZFJ.js",
+    "content_type": "text/javascript",
+    "size": 1004,
+    "sha256": "d3c5fd59f9bb8c37eadf45985b4c98c03224da84f9e384fa12b160c386a22894"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/FileInfoTable-CSYHZ6UX.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/FileInfoTable-CSYHZ6UX.js",
+    "status": "saved",
+    "path": "assets/d11a9711ebaa94ed_FileInfoTable-CSYHZ6UX.js",
+    "content_type": "text/javascript",
+    "size": 5068,
+    "sha256": "333008cf112f08c69ab97c051a1f751e546efc6f6a962ef1d6259303483e507f"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SideBar-jXFeRPc3.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SideBar-jXFeRPc3.js",
+    "status": "saved",
+    "path": "assets/69a474d6aa8e0bec_SideBar-jXFeRPc3.js",
+    "content_type": "text/javascript",
+    "size": 1858,
+    "sha256": "7e65397bc8a3aad162366133a1da2387e9a931ccec353ea69ffc9d4a3de017b4"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHardwareCross-BJ-M7gxx.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHardwareCross-BJ-M7gxx.js",
+    "status": "saved",
+    "path": "assets/0cfb69bac14f25e5_IconHardwareCross-BJ-M7gxx.js",
+    "content_type": "text/javascript",
+    "size": 6709,
+    "sha256": "b982a6968a5433681da2cb555558f14e4b99c8f878f0b3540f5c0d40894b72e9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconArrowTopRight-BGzI3skd.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconArrowTopRight-BGzI3skd.js",
+    "status": "saved",
+    "path": "assets/f656461515117556_IconArrowTopRight-BGzI3skd.js",
+    "content_type": "text/javascript",
+    "size": 587,
+    "sha256": "d0eebbab9a75268cbc34d4244a6a8165c6e10fdb2c950c8a53b9505772e57bb9"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCodeGeneration-JcR64XEw.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCodeGeneration-JcR64XEw.js",
+    "status": "saved",
+    "path": "assets/336ab6b55a7e0a55_IconCodeGeneration-JcR64XEw.js",
+    "content_type": "text/javascript",
+    "size": 1306,
+    "sha256": "4e2907f1b01e2587907bd1615be3360eabde18e4bb5ff55526b68c6e48ad3d4a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LineWrapButton-CPC-m_HK.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LineWrapButton-CPC-m_HK.js",
+    "status": "saved",
+    "path": "assets/a2db7c5ed6f970a8_LineWrapButton-CPC-m_HK.js",
+    "content_type": "text/javascript",
+    "size": 1646,
+    "sha256": "9e05f90eb9a93046a6a3c9675388b9a3d3a1f4879c28b872fd2e64b66bb13ff6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconLineWrap-D-uQkuDH.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconLineWrap-D-uQkuDH.js",
+    "status": "saved",
+    "path": "assets/9a5723e1cef3d32f_IconLineWrap-D-uQkuDH.js",
+    "content_type": "text/javascript",
+    "size": 616,
+    "sha256": "80ce1b0106fed9f9afd3c5bea2787a00ed1700d8ad4f7a1ee79766d79f53ee7a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/InferenceWidget-CbX2k-0R.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/InferenceWidget-CbX2k-0R.js",
+    "status": "saved",
+    "path": "assets/924c45692c3c9a9f_InferenceWidget-CbX2k-0R.js",
+    "content_type": "text/javascript",
+    "size": 205121,
+    "sha256": "86d26aa9ef5a4cd63f41182641e2c8e4acb7e156918f3b92c4736a6082daf2e5"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ViewMarkdown-DbSxQlSt.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ViewMarkdown-DbSxQlSt.js",
+    "status": "saved",
+    "path": "assets/538e3a276e6a367b_ViewMarkdown-DbSxQlSt.js",
+    "content_type": "text/javascript",
+    "size": 220,
+    "sha256": "603805d54c421deaa718576a1a77d9945e16af0e99d1768ce63963008e89c318"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/WidgetQuickInput-Drt7PxG7.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/WidgetQuickInput-Drt7PxG7.js",
+    "status": "saved",
+    "path": "assets/2bfab7a32146591a_WidgetQuickInput-Drt7PxG7.js",
+    "content_type": "text/javascript",
+    "size": 3168,
+    "sha256": "d6d147dde63e7bc9951eb8ab5814d508b9e044fe924afb965c6cd0232d07432a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCancel-B1EEy6rC.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCancel-B1EEy6rC.js",
+    "status": "saved",
+    "path": "assets/2409a30e4f0f1d64_IconCancel-B1EEy6rC.js",
+    "content_type": "text/javascript",
+    "size": 464,
+    "sha256": "ffb08949f12431702cc9f580a33ea055b36aa10c2a7d5d8909f4a0307555ca2a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconSpin-DkUBH9JW.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconSpin-DkUBH9JW.js",
+    "status": "saved",
+    "path": "assets/f13c883ca3870f82_IconSpin-DkUBH9JW.js",
+    "content_type": "text/javascript",
+    "size": 1254,
+    "sha256": "2a6b36232fe2c526dd3834506b2812f84ccd954c9b78f943ce73755e1412dd2e"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LogInPopover-FfFnwvlu.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LogInPopover-FfFnwvlu.js",
+    "status": "saved",
+    "path": "assets/d106cf8895996b7c_LogInPopover-FfFnwvlu.js",
+    "content_type": "text/javascript",
+    "size": 1702,
+    "sha256": "2b821cfd61c1df6b19aca36663c1b77ba6ccfe0debd750b8ffc65a8a06211030"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconClock-BoF4r3tE.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconClock-BoF4r3tE.js",
+    "status": "saved",
+    "path": "assets/8a3adf3e17a89e51_IconClock-BoF4r3tE.js",
+    "content_type": "text/javascript",
+    "size": 1386,
+    "sha256": "5f494daf06739978efe362eb011c659d7478cc8ee379ab828e26641ec22c652b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconCode-DW36WrRM.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconCode-DW36WrRM.js",
+    "status": "saved",
+    "path": "assets/8ad579383717eb33_IconCode-DW36WrRM.js",
+    "content_type": "text/javascript",
+    "size": 773,
+    "sha256": "0624bf43ca272a7708bbd878d9f7d52b16887d45f6184b7f375ca8e86529e908"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconImageAdd-C_ujAfu6.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconImageAdd-C_ujAfu6.js",
+    "status": "saved",
+    "path": "assets/0d36934c094d9c2d_IconImageAdd-C_ujAfu6.js",
+    "content_type": "text/javascript",
+    "size": 2104,
+    "sha256": "d0586994a156ddac817b233e8170ec6061df25465c8f0f9e3f437bb3282f22b2"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconRow-BD59BvZV.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconRow-BD59BvZV.js",
+    "status": "saved",
+    "path": "assets/3972387bf17d4c78_IconRow-BD59BvZV.js",
+    "content_type": "text/javascript",
+    "size": 2210,
+    "sha256": "0cfcab413627ea6d492080ab020afe858a61b520213a0b28cc260ba1fe1e2fa1"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconPlusFlat-DDrPnMVW.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconPlusFlat-DDrPnMVW.js",
+    "status": "saved",
+    "path": "assets/382ce6f90bfc5d12_IconPlusFlat-DDrPnMVW.js",
+    "content_type": "text/javascript",
+    "size": 1011,
+    "sha256": "c8bd6945d5d21dbe78f0908f8b8f0216c4e1c66d8b85b91bfc65c2ddfdfbc5a8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconRefresh-wKI_511t.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconRefresh-wKI_511t.js",
+    "status": "saved",
+    "path": "assets/b4139ad7c18f5eb9_IconRefresh-wKI_511t.js",
+    "content_type": "text/javascript",
+    "size": 1435,
+    "sha256": "2186bbb71119eb6dd80d87c6b91e72ab18f5149249aba8c49bc34ae6a447ecf6"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/Image-BbbtiJYO.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/Image-BbbtiJYO.js",
+    "status": "saved",
+    "path": "assets/7a2ab2213750cc74_Image-BbbtiJYO.js",
+    "content_type": "text/javascript",
+    "size": 1463,
+    "sha256": "ef5be92fe60288a17935d9071c40465db9dd6edfd44ab0bb5870877d9723cb2d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/InferenceProviderStatusPopover-KjO36_CW.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/InferenceProviderStatusPopover-KjO36_CW.js",
+    "status": "saved",
+    "path": "assets/afb587467ff14a86_InferenceProviderStatusPopover-KjO36_CW.js",
+    "content_type": "text/javascript",
+    "size": 2694,
+    "sha256": "eefb4f82e614e4d690bea113a202e0b45f1ffb6e742fa55f5b5f69701d2d372b"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/WidgetOutputConvoBubble-lO5FXHy4.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/WidgetOutputConvoBubble-lO5FXHy4.js",
+    "status": "saved",
+    "path": "assets/81fa1a2840751723_WidgetOutputConvoBubble-lO5FXHy4.js",
+    "content_type": "text/javascript",
+    "size": 8349,
+    "sha256": "e1798fd7723b908a7cd6aca9f045fcc395d9d56ec721bef7ccdf080fa4479082"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/MarkdownRender-BKsHztLO.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/MarkdownRender-BKsHztLO.js",
+    "status": "saved",
+    "path": "assets/5ff2cd7cd8e266d7_MarkdownRender-BKsHztLO.js",
+    "content_type": "text/javascript",
+    "size": 39544,
+    "sha256": "95fa397f9d0a15ded10db2adc583efd05bed2a11873d08aa6bdcf0a9761afd71"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconHammer-DuThk7DG.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconHammer-DuThk7DG.js",
+    "status": "saved",
+    "path": "assets/e85e9eabb3e8bdb8_IconHammer-DuThk7DG.js",
+    "content_type": "text/javascript",
+    "size": 1211,
+    "sha256": "b2929ddb9b9a064728422aff82fa4b7f7c408b7c026fb41e905d3f840b4e3463"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconReasoning-Bb6AMp8E.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconReasoning-Bb6AMp8E.js",
+    "status": "saved",
+    "path": "assets/ffc9f9f2f0cdb106_IconReasoning-Bb6AMp8E.js",
+    "content_type": "text/javascript",
+    "size": 2244,
+    "sha256": "30de9d97297ae7dc74bcbf36f1dabde7b08ba8474618b06c3e2e39ae659fc90d"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/helpers-Dc4Kc6zc.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/helpers-Dc4Kc6zc.js",
+    "status": "saved",
+    "path": "assets/b5beb950c7e91c06_helpers-Dc4Kc6zc.js",
+    "content_type": "text/javascript",
+    "size": 3264,
+    "sha256": "54b8e59fe8cf5e394b4e2b4581bec8622091932328cc3b14140cf7ee1ec0f411"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/LinkedSpacesList-fqDE5qm9.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/LinkedSpacesList-fqDE5qm9.js",
+    "status": "saved",
+    "path": "assets/c135b0829701af39_LinkedSpacesList-fqDE5qm9.js",
+    "content_type": "text/javascript",
+    "size": 2179,
+    "sha256": "71ff257bff9ff8ac5783c8ece4c840d584e6291acb19d4a20259461db5686ac8"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/SpaceTag-D9xzMcId.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/SpaceTag-D9xzMcId.js",
+    "status": "saved",
+    "path": "assets/f751f9ae8b6bb0e4_SpaceTag-D9xzMcId.js",
+    "content_type": "text/javascript",
+    "size": 2384,
+    "sha256": "830205ce6b1e3e99bd74861c9974d6de590d8e4072527959cecc93f4f2c18782"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconFlame-CK3Rkil0.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconFlame-CK3Rkil0.js",
+    "status": "saved",
+    "path": "assets/ab5676dca5967d70_IconFlame-CK3Rkil0.js",
+    "content_type": "text/javascript",
+    "size": 870,
+    "sha256": "c93215259d5d5a9c1953e2c7301c9767e5db8f098a802c8cbc7a4c8b3f86958a"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ModelEvalResults-DuuKfG1B.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ModelEvalResults-DuuKfG1B.js",
+    "status": "saved",
+    "path": "assets/a53f5abee0210cfa_ModelEvalResults-DuuKfG1B.js",
+    "content_type": "text/javascript",
+    "size": 13699,
+    "sha256": "8170f464f892dacd3e0d222fd44f92fe147eafa5213bf8e86c41d0836bf865c7"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/IconBranch-DIun_z4Q.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/IconBranch-DIun_z4Q.js",
+    "status": "saved",
+    "path": "assets/a1265e008b6cab8c_IconBranch-DIun_z4Q.js",
+    "content_type": "text/javascript",
+    "size": 493,
+    "sha256": "cac0fd480ad4dd345267a3482bf1aed6a9ecfecc8b9d7c0f9deca72af128e872"
+  },
+  {
+    "url": "https://huggingface.co/front/build/kube-1daa235/ThemeSwitcher-BAqxUL3Y.js",
+    "final_url": "https://huggingface.co/front/build/kube-1daa235/ThemeSwitcher-BAqxUL3Y.js",
+    "status": "saved",
+    "path": "assets/24a7436e8652635a_ThemeSwitcher-BAqxUL3Y.js",
+    "content_type": "text/javascript",
+    "size": 69,
+    "sha256": "392ed22d1d03c92affdd27af6a1c20d3cbc33be1195e4216160c8981eb36a365"
+  },
+  {
+    "url": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+    "final_url": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+    "status": "saved",
+    "path": "assets/2627531e6902a19c_huggingface_logo-noborder.svg",
+    "content_type": "image/svg+xml",
+    "size": 4634,
+    "sha256": "3613c73f07ccae19118bfe6d2f8cd127183d08cf99468a708e090953e116ed0a"
+  },
+  {
+    "url": "https://cdn-avatars.huggingface.co/v1/production/uploads/62dc173789b4cf157d36ebee/i_pxzM2ZDo3Ub-BEgIkE9.png",
+    "final_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/62dc173789b4cf157d36ebee/i_pxzM2ZDo3Ub-BEgIkE9.png",
+    "status": "saved",
+    "path": "assets/832432cf89c5f4e9_i_pxzM2ZDo3Ub-BEgIkE9.png",
+    "content_type": "image/webp",
+    "size": 2506,
+    "sha256": "4e99514652b98edf65295a07269125e6eab777df376623c2e5ab1ce7d58ba72b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/logo.svg",
+    "final_url": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/logo.svg",
+    "status": "saved",
+    "path": "assets/b3692d6ac25cf7a3_logo.svg",
+    "content_type": "image/svg+xml",
+    "size": 11036,
+    "sha256": "e60742a0b37f805e654249dedb7b6ca11c785a60a2dd9ae33864668dce217693"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+    "final_url": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+    "status": "saved",
+    "path": "assets/72529220b43927bd_bench_51.png",
+    "content_type": "image/png",
+    "size": 1430884,
+    "sha256": "7648a59ec79c81b96ba79f0fe74307bf03987802be1855c9e97a6a5f713436aa"
+  },
+  {
+    "url": "https://cdn-avatars.huggingface.co/v1/production/uploads/6038d6d0612f5eef3cc05ea9/ryhvAX5djQpD5OrIlZQ1f.jpeg",
+    "final_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/6038d6d0612f5eef3cc05ea9/ryhvAX5djQpD5OrIlZQ1f.jpeg",
+    "status": "saved",
+    "path": "assets/ee00918a4b6edfb5_ryhvAX5djQpD5OrIlZQ1f.jpeg",
+    "content_type": "image/webp",
+    "size": 9870,
+    "sha256": "5f821b0a4f7a3bef7f123e493be71dc20ab7109a4b8836d89612d608bb563849"
+  },
+  {
+    "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "final_url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "status": "saved",
+    "path": "assets/f229635b65472d4f_m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+    "content_type": "text/html",
+    "size": 200,
+    "sha256": "35dcc382eb69d00369d708708cdc545f3968b68fa5bbe3e728d11fedd04f93bb"
+  }
+]

@@ -1,0 +1,1 @@
+import{Qt as e,Zt as t,b as n,d as r,i,o as a}from"./index-client-BJFU2hDo.js";import"./disclose-version-CYLFKb47.js";import"./legacy-CryiGEH9.js";import{t as o}from"./index.js";function s(s,c){e(c,!1);let l=a(c,`targetSelector`,8);return i(()=>{let e=document.querySelector(l());e&&o(e)}),r(),n(c,`hydrate`,!0),t({hydrate:!0})}export{s as default};

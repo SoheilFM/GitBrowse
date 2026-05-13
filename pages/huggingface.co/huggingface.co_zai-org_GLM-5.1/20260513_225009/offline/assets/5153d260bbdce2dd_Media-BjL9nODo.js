@@ -1,0 +1,1 @@
+var e=[`image/png`,`image/jpeg`,`image/gif`,`image/webp`],t=[`video/mp4`,`video/quicktime`,`video/webm`],n=[`audio/mpeg`,`audio/wav`],r=[...e,...t,...n];export{t as i,e as n,r,n as t};

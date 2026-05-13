@@ -1,0 +1,6 @@
+https://cdn-avatars.huggingface.co/v1/production/uploads/6038d6d0612f5eef3cc05ea9/ryhvAX5djQpD5OrIlZQ1f.jpeg
+https://cdn-avatars.huggingface.co/v1/production/uploads/62dc173789b4cf157d36ebee/i_pxzM2ZDo3Ub-BEgIkE9.png
+https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png
+https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/logo.svg
+https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/wechat.png

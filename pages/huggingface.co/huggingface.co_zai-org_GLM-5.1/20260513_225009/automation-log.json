@@ -1,0 +1,14 @@
+[
+  {
+    "kind": "automation",
+    "action": "auto_scroll",
+    "max_scrolls": 18,
+    "time": "2026-05-13T22:50:33.108510+00:00"
+  },
+  {
+    "kind": "offline",
+    "action": "capture_mhtml",
+    "status": "ok",
+    "path": "offline/page.mhtml"
+  }
+]

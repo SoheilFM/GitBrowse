@@ -1,0 +1,1 @@
+function e(e,t){let n=[...e.children];return t.append(...n),{destroy(){for(let e of n)e.remove()}}}function t(t){return e(t,document.body)}export{t as n,e as t};

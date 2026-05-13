@@ -1,0 +1,1 @@
+import{_ as e}from"./ViewUtils-DbZqrYcO.js";var t=[`cpu-basic`,`cpu-upgrade`,`cpu-performance`,`cpu-xl`,`sprx8`],n=[e],r=[`t4-small`,`t4-medium`,`l4x1`,`l4x4`,`l40sx1`,`l40sx4`,`l40sx8`,`a10g-small`,`a10g-large`,`a10g-largex2`,`a10g-largex4`,`a100-large`,`a100x4`,`a100x8`,`h200`,`h200x2`,`h200x4`,`h200x8`],i=[`inf2x6`];[...t,...n,...r,...i];var a=`cpu-basic`;export{a as t};
