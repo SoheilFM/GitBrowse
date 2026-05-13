@@ -1,0 +1,839 @@
+[
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/z-icon.svg",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/z-icon.svg",
+    "status": "saved",
+    "path": "assets/36d85c20a15cace5_z-icon.svg",
+    "content_type": "image/svg+xml",
+    "size": 11037,
+    "sha256": "07a45e8e35b0b631ed2c68cd1cb041f9721b1ceeb0bd0e34f1459b0304a741c7"
+  },
+  {
+    "url": "https://z.ai/blog/assets/glm-5.1-sEcXPNR5.js",
+    "final_url": "https://z.ai/blog/assets/glm-5.1-sEcXPNR5.js",
+    "status": "saved",
+    "path": "assets/10e5256ee6152479_glm-5.1-sEcXPNR5.js",
+    "content_type": "application/javascript",
+    "size": 221303,
+    "sha256": "0d0c8d14c9eee11cdbf591e85b4b3bd164cb14198933a301e27427623490f045"
+  },
+  {
+    "url": "https://z.ai/blog/assets/src-DDvILW0E.js",
+    "final_url": "https://z.ai/blog/assets/src-DDvILW0E.js",
+    "status": "saved",
+    "path": "assets/7797abaa573619e2_src-DDvILW0E.js",
+    "content_type": "application/javascript",
+    "size": 215496,
+    "sha256": "98abb7c6d857927530490f485bf8d1ebf791c9d033bca1a20cc293fa43f5424d"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "status": "saved",
+    "path": "assets/f88338fc6bb1c526_KaTeX_AMS-Regular.BQhdFMY1.woff2",
+    "content_type": "font/woff2",
+    "size": 28076,
+    "sha256": "0cdd387c9590a1a9f9794560022dbb59654a7d86f187aa0c81495ad42d3a7308"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "status": "saved",
+    "path": "assets/f70f0c4b6d7b701c_KaTeX_AMS-Regular.DMm9YOAa.woff",
+    "content_type": "font/woff",
+    "size": 33516,
+    "sha256": "30da91e84c893f875e252689faebdc590b2871145e8adc7f9a9d4dbd8ce0b251"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "status": "saved",
+    "path": "assets/afdef3235850c0f8_KaTeX_AMS-Regular.DRggAlZN.ttf",
+    "content_type": "application/octet-stream",
+    "size": 63632,
+    "sha256": "68534840bcfdd2bffb6f0e8deb48684dd01e7f04ea2813267577afb906de1d13"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "status": "saved",
+    "path": "assets/4c02884ceaa615a8_KaTeX_Caligraphic-Bold.Dq_IR9rO.woff2",
+    "content_type": "font/woff2",
+    "size": 6912,
+    "sha256": "de7701e42cf1f4cf0b766c03fb27977207eee2f4fd5d76fa82188406da43ea4c"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "status": "saved",
+    "path": "assets/e24b854b112ea66b_KaTeX_Caligraphic-Bold.BEiXGLvX.woff",
+    "content_type": "font/woff",
+    "size": 7716,
+    "sha256": "1ae6bd7475590e97e7f145a89e09ccde322f7a6bc0b91607b1c8b8ee28290fed"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "status": "saved",
+    "path": "assets/c050050183b20bc3_KaTeX_Caligraphic-Bold.ATXxdsX0.ttf",
+    "content_type": "application/octet-stream",
+    "size": 12368,
+    "sha256": "07d8e303ce4fc12b4bb54f1004170dd190a1f3db45d400fe68060df3e0897268"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "status": "saved",
+    "path": "assets/dcf9ca2258473fcc_KaTeX_Caligraphic-Regular.Di6jR-x-.woff2",
+    "content_type": "font/woff2",
+    "size": 6908,
+    "sha256": "5d53e70ad607c2352162dec9e0923fb54ecdafaccbf604cd8dcf7d00facb989b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "status": "saved",
+    "path": "assets/65db09cdfbd2c0e6_KaTeX_Caligraphic-Regular.CTRA-rTL.woff",
+    "content_type": "font/woff",
+    "size": 7656,
+    "sha256": "3398dd02302557a793f2863f88e02d96ce10df2abffa07c8e9fa90775116e65c"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "status": "saved",
+    "path": "assets/cd235e1cb2717e77_KaTeX_Caligraphic-Regular.wX97UBjC.ttf",
+    "content_type": "application/octet-stream",
+    "size": 12344,
+    "sha256": "ed0b74372feefcbb9c0666b2e210da37b7e49fa7fbbf3eeb11db5f693dacfbb7"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "status": "saved",
+    "path": "assets/6e11494a6fcd4587_KaTeX_Fraktur-Bold.CL6g_b3V.woff2",
+    "content_type": "font/woff2",
+    "size": 11348,
+    "sha256": "74444efd593c005e3f4573b44524704c0af0a937fe911cca9e94068d0d140d3f"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "status": "saved",
+    "path": "assets/f5b997785c45b8d7_KaTeX_Fraktur-Bold.BsDP51OF.woff",
+    "content_type": "font/woff",
+    "size": 13296,
+    "sha256": "9be7ceb88004ab8ad124082246fbfcca4091e36385d4ec6ed1df67375dad50fb"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "status": "saved",
+    "path": "assets/5ec8ea4c241bdb1a_KaTeX_Fraktur-Bold.BdnERNNW.ttf",
+    "content_type": "application/octet-stream",
+    "size": 19584,
+    "sha256": "9163df9c7122432e6495b4229fa9071cf9ae86a758ae5efc4924ec2e1a6dbce1"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "status": "saved",
+    "path": "assets/10e081ee0076e1d2_KaTeX_Fraktur-Regular.CTYiF6lA.woff2",
+    "content_type": "font/woff2",
+    "size": 11316,
+    "sha256": "51814d270d06ff0255dba0799994fa4d8c84d11f09951d47595f4abb1f3602dc"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "status": "saved",
+    "path": "assets/4b15e936b594a1f5_KaTeX_Fraktur-Regular.Dxdc4cR9.woff",
+    "content_type": "font/woff",
+    "size": 13208,
+    "sha256": "5e28753be717dac97f559f49bc10be9cf3c124ddcabda6659d11cb68febc6463"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "status": "saved",
+    "path": "assets/b28ed7c131c111e6_KaTeX_Fraktur-Regular.CB_wures.ttf",
+    "content_type": "application/octet-stream",
+    "size": 19572,
+    "sha256": "1e6f9579e90e2cac37f8f60a597c436e075c114385652b7cbeb0dec0421291b3"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Bold.Cx986IdX.woff2",
+    "status": "saved",
+    "path": "assets/6579256354237bab_KaTeX_Main-Bold.Cx986IdX.woff2",
+    "content_type": "font/woff2",
+    "size": 25324,
+    "sha256": "0f60d1b897938ec918c8ce073092411baf9438f6739465693ff18b0f9d20b021"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Bold.Jm3AIy58.woff",
+    "status": "saved",
+    "path": "assets/b2a2100a79ee6c4a_KaTeX_Main-Bold.Jm3AIy58.woff",
+    "content_type": "font/woff",
+    "size": 29912,
+    "sha256": "c76c5d696297d51b9cb1639c7da4334f0e7dec81b42b11213b5e25ef671bb822"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Bold.waoOVXN0.ttf",
+    "status": "saved",
+    "path": "assets/61442100e50a2603_KaTeX_Main-Bold.waoOVXN0.ttf",
+    "content_type": "application/octet-stream",
+    "size": 51336,
+    "sha256": "138ac28d1663b3037e9c5f52371fa5c63d8324f4a38d22cd573e6ea3a3fd0cf8"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "status": "saved",
+    "path": "assets/f464a6463f61a00e_KaTeX_Main-BoldItalic.DxDJ3AOS.woff2",
+    "content_type": "font/woff2",
+    "size": 16780,
+    "sha256": "99cd42a3c072d918f2f44984a807cf7aa16e13545fd0875fc07c6c65f99e715b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "status": "saved",
+    "path": "assets/59d2ddeb216fa92d_KaTeX_Main-BoldItalic.SpSLRI95.woff",
+    "content_type": "font/woff",
+    "size": 19412,
+    "sha256": "a6f7ec0d846ac7ad975adb8959c37ed49b94acbc4ae436db9ce9e20287e4a64c"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "status": "saved",
+    "path": "assets/648b1692bdb1d198_KaTeX_Main-BoldItalic.DzxPMmG6.ttf",
+    "content_type": "application/octet-stream",
+    "size": 32968,
+    "sha256": "70ee1f64a20f2048c21940ef46d0144fd215baa953ca69afd1e31e98544f708f"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "status": "saved",
+    "path": "assets/2fc78cd194fba173_KaTeX_Main-Italic.NWA7e6Wa.woff2",
+    "content_type": "font/woff2",
+    "size": 16988,
+    "sha256": "97479ca6cce906abc961ecac96faa5f9ca2e61b8e7670d475826bcdee9a7c267"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Italic.BMLOBm91.woff",
+    "status": "saved",
+    "path": "assets/27c4374614b20b35_KaTeX_Main-Italic.BMLOBm91.woff",
+    "content_type": "font/woff",
+    "size": 19676,
+    "sha256": "f1d6ef86f3b11a528bd5185199bd2443ecb2b0dead96d88674b5a2c12be24bdf"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Italic.3WenGoN9.ttf",
+    "status": "saved",
+    "path": "assets/c70628af1cf0d61b_KaTeX_Main-Italic.3WenGoN9.ttf",
+    "content_type": "application/octet-stream",
+    "size": 33580,
+    "sha256": "0d85ae7cc30f23790a7f1a58c4a112fdca8aae769b6ba11429af1d98b1b6cb3a"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Regular.B22Nviop.woff2",
+    "status": "saved",
+    "path": "assets/b5d33eae3ab8843a_KaTeX_Main-Regular.B22Nviop.woff2",
+    "content_type": "font/woff2",
+    "size": 26272,
+    "sha256": "c2342cd8b869e01752a9321dc17213fc40d4d04c79688c1d43f2cf316abd7866"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Regular.Dr94JaBh.woff",
+    "status": "saved",
+    "path": "assets/6aa13a040e174bf4_KaTeX_Main-Regular.Dr94JaBh.woff",
+    "content_type": "font/woff",
+    "size": 30772,
+    "sha256": "c6368d87e8a1a3a5d337623d83d8dc4b868f242a9ad476237d6f8d1e0f168cdc"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "status": "saved",
+    "path": "assets/4a037badb314c2d7_KaTeX_Main-Regular.ypZvNtVU.ttf",
+    "content_type": "application/octet-stream",
+    "size": 53580,
+    "sha256": "d0332f52868370fd83ae7fa46470f90c8f2eab2fcf12bc4f88080b340c95a830"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "status": "saved",
+    "path": "assets/1c672ca0e2d64de7_KaTeX_Math-BoldItalic.CZnvNsCZ.woff2",
+    "content_type": "font/woff2",
+    "size": 16400,
+    "sha256": "dc47344dbb6cb5b655c8460d561f4df5f501b90c804ad3c6cec65fe322351ab1"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "status": "saved",
+    "path": "assets/781b56347ee994af_KaTeX_Math-BoldItalic.iY-2wyZ7.woff",
+    "content_type": "font/woff",
+    "size": 18668,
+    "sha256": "850c0af5c2238497febaf5e461d880bf458c341f42f4f330f1b1ab5698b1998e"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "status": "saved",
+    "path": "assets/49126bdcc42a5b3b_KaTeX_Math-BoldItalic.B3XSjfu4.ttf",
+    "content_type": "application/octet-stream",
+    "size": 31196,
+    "sha256": "f9377ab0271cda59af24bcffbd46a4d0c8a3572ffafdbb38de2ad5ea7b0d5ee5"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-Italic.t53AETM-.woff2",
+    "status": "saved",
+    "path": "assets/9f0d20856d82bb16_KaTeX_Math-Italic.t53AETM-.woff2",
+    "content_type": "font/woff2",
+    "size": 16440,
+    "sha256": "7af58c5ec8f132a2ddde9027c6d7814decce4d3b822a11192a42a20e2e973264"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-Italic.DA0__PXp.woff",
+    "status": "saved",
+    "path": "assets/7dde30b942a58d74_KaTeX_Math-Italic.DA0__PXp.woff",
+    "content_type": "font/woff",
+    "size": 18748,
+    "sha256": "8a8d244581371912b8f3f5a23e2437cb2a59cd9bcaebb0346e722c05737a2571"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Math-Italic.flOr_0UB.ttf",
+    "status": "saved",
+    "path": "assets/8042e502b929ef31_KaTeX_Math-Italic.flOr_0UB.ttf",
+    "content_type": "application/octet-stream",
+    "size": 31308,
+    "sha256": "08ce98e51b04d58945a301e639e02b6998af29fdfd61a7b8afdd07bbfc479d4a"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "status": "saved",
+    "path": "assets/522e9f964246bfda_KaTeX_SansSerif-Bold.D1sUS0GD.woff2",
+    "content_type": "font/woff2",
+    "size": 12216,
+    "sha256": "e99ae51144bf1232efcc1bfe5add36262c6866b0faab24fa75740e1b98577a62"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "status": "saved",
+    "path": "assets/b0e400e905a54be7_KaTeX_SansSerif-Bold.DbIhKOiC.woff",
+    "content_type": "font/woff",
+    "size": 14408,
+    "sha256": "ece03cfd83e22c212cdef66feb8442d25a083beb988db3f1883f3f9738d750ba"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "status": "saved",
+    "path": "assets/43c19a503bbe9b43_KaTeX_SansSerif-Bold.CFMepnvq.ttf",
+    "content_type": "application/octet-stream",
+    "size": 24504,
+    "sha256": "1ece03f79f95277d57dc7f6b435a74e1379b0d46104a8530286b60ff49369ea0"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "status": "saved",
+    "path": "assets/6fab8de1b88a256a_KaTeX_SansSerif-Italic.C3H0VqGB.woff2",
+    "content_type": "font/woff2",
+    "size": 12028,
+    "sha256": "00b26ac825e2095056396e0553b8ac26d3f8ad158c3826e28b4c45b385c4714a"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "status": "saved",
+    "path": "assets/05a28452338f0cd4_KaTeX_SansSerif-Italic.DN2j7dab.woff",
+    "content_type": "font/woff",
+    "size": 14112,
+    "sha256": "91ee67500cc0129aa0ace3ac5c61ff1692102f0f31d02b69347fba35dcb75bf2"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "status": "saved",
+    "path": "assets/0dc2613cde91808b_KaTeX_SansSerif-Italic.YYjJ1zSn.ttf",
+    "content_type": "application/octet-stream",
+    "size": 22364,
+    "sha256": "3931dd81faed86ba021bb2bbdc36f5bed9a38d6b4f4077aca59b265aa1b02083"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "status": "saved",
+    "path": "assets/faf1d386bc93ef12_KaTeX_SansSerif-Regular.DDBCnlJ7.woff2",
+    "content_type": "font/woff2",
+    "size": 10344,
+    "sha256": "68e8c73ef42afd3ccec58bf0fba302cce448938e7fc020a5e31f8a952eee1342"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "status": "saved",
+    "path": "assets/5ecb8a69c01a67ef_KaTeX_SansSerif-Regular.CS6fqUqJ.woff",
+    "content_type": "font/woff",
+    "size": 12316,
+    "sha256": "11e4dc8a6471ff6d6ee561d53d10fde8f7489e798257ff449c5d37c197435605"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "status": "saved",
+    "path": "assets/df25c37bc465f9c5_KaTeX_SansSerif-Regular.BNo7hRIc.ttf",
+    "content_type": "application/octet-stream",
+    "size": 19436,
+    "sha256": "f36ea897e19f4a2e571d1e900e4e3710e438deb05a842486045ba0a3e616a4ad"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "status": "saved",
+    "path": "assets/053782e1d9e3a9c3_KaTeX_Script-Regular.D3wIWfF6.woff2",
+    "content_type": "font/woff2",
+    "size": 9644,
+    "sha256": "036d4e95149b69ff9bcc0cd55771efeb25ffa3947293e69acd78d5ac328c684b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Script-Regular.D5yQViql.woff",
+    "status": "saved",
+    "path": "assets/2e964be0638dd3c5_KaTeX_Script-Regular.D5yQViql.woff",
+    "content_type": "font/woff",
+    "size": 10588,
+    "sha256": "d96cdf2b3bdd4d64a8fd5f74a4c467f123a8a73931cd435889f08ffaf9bf947a"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "status": "saved",
+    "path": "assets/7b3a1bb08b105cd2_KaTeX_Script-Regular.C5JkGWo-.ttf",
+    "content_type": "application/octet-stream",
+    "size": 16648,
+    "sha256": "1c67f068fea8bb09bf099c088b1cf64bd27516a6e07f4684344873564bb66a67"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "status": "saved",
+    "path": "assets/784e33c60ed8a18a_KaTeX_Size1-Regular.mCD8mA8B.woff2",
+    "content_type": "font/woff2",
+    "size": 5468,
+    "sha256": "6b47c40166b6dbe21a5dfca7718413f2147fd2399be1ba605d8ad39cedf25dfe"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.C195tn64.woff",
+    "status": "saved",
+    "path": "assets/6531f38a0ee303aa_KaTeX_Size1-Regular.C195tn64.woff",
+    "content_type": "font/woff",
+    "size": 6496,
+    "sha256": "c943cc986384f59e86bea5fd7dc50a9c4dfe567a7c05eb40d6790720dead97c9"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "status": "saved",
+    "path": "assets/4e35c14d8c5f821c_KaTeX_Size1-Regular.Dbsnue_I.ttf",
+    "content_type": "application/octet-stream",
+    "size": 12228,
+    "sha256": "95b6d2f1a50173bfedb8c63e1d1c99b10427d0a4df4201cb44513b226951a22b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "status": "saved",
+    "path": "assets/6562cf567b8107ed_KaTeX_Size2-Regular.Dy4dx90m.woff2",
+    "content_type": "font/woff2",
+    "size": 5208,
+    "sha256": "d04c54219f9eaec6d4d4fd42dfb28785975a4794d6b2fc71e566b9cd6db842dd"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "status": "saved",
+    "path": "assets/2ff66a45cd25cfa9_KaTeX_Size2-Regular.oD1tc_U0.woff",
+    "content_type": "font/woff",
+    "size": 6188,
+    "sha256": "2014c523c3210bcc166648c4d4cc57f05b747df07a24277bf71c51e67dc79e3d"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "status": "saved",
+    "path": "assets/addc62915f90443c_KaTeX_Size2-Regular.B7gKUWhC.ttf",
+    "content_type": "application/octet-stream",
+    "size": 11508,
+    "sha256": "a6b2099fb555c60e3a0db3a08842ebf1d732c6eb4e4bf44913613bed4fc4e39b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "status": "saved",
+    "path": "assets/626c4c266e16835c_KaTeX_Size3-Regular.CTq5MqoE.woff",
+    "content_type": "font/woff",
+    "size": 4420,
+    "sha256": "6ab6b62e9b62dae2c00dd90f791bd10950be0ecc3490d7d6045f51c2e8fe0949"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "status": "saved",
+    "path": "assets/2af90f21ebf2eb70_KaTeX_Size3-Regular.DgpXs0kz.ttf",
+    "content_type": "application/octet-stream",
+    "size": 7588,
+    "sha256": "500e04d54f0d51666332c9d2089aa803be22aa878eca539e59fa53c6e522b082"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "status": "saved",
+    "path": "assets/83240d5bc3b5881f_KaTeX_Size4-Regular.Dl5lxZxV.woff2",
+    "content_type": "font/woff2",
+    "size": 4928,
+    "sha256": "a4af7d414440a1c1790825cfb700cf9cf43b0f2c4b04f0ebc523011ad9853ec0"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "status": "saved",
+    "path": "assets/a2722a246f5436d5_KaTeX_Size4-Regular.BF-4gkZK.woff",
+    "content_type": "font/woff",
+    "size": 5980,
+    "sha256": "99f9c6750b489c9462bf04900bd3f939df9b829339daaaaa99ef5495cdddea58"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Size4-Regular.DWFBv043.ttf",
+    "status": "saved",
+    "path": "assets/ed911310e8edb7c1_KaTeX_Size4-Regular.DWFBv043.ttf",
+    "content_type": "application/octet-stream",
+    "size": 10364,
+    "sha256": "c647367d1dd4e162468717d020e1fc0f1dc5c26ebfdffbe55261713bf88c5877"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "status": "saved",
+    "path": "assets/e162d85989aa85a9_KaTeX_Typewriter-Regular.CO6r4hn1.woff2",
+    "content_type": "font/woff2",
+    "size": 13568,
+    "sha256": "71d517d67827787cfabdf186914cc3358eda539e37931941f2b2fd4a21f68c0b"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "status": "saved",
+    "path": "assets/dcb235035bf18714_KaTeX_Typewriter-Regular.C0xS9mPB.woff",
+    "content_type": "font/woff",
+    "size": 16028,
+    "sha256": "e14fed02b1aba7ce9f5afd5844b5d0321b22351febc720e0de8b8723527609f7"
+  },
+  {
+    "url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "final_url": "https://z.ai/blog/assets/KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "status": "saved",
+    "path": "assets/9cd25c8825b5b90c_KaTeX_Typewriter-Regular.D3Ib7_Hf.ttf",
+    "content_type": "application/octet-stream",
+    "size": 27556,
+    "sha256": "f01f3e87d9c6a61c0c081ceb577abd864eb00a612f7ac1620dd6915fad2ef5aa"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/6c177e25b87fd9cd-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/6c177e25b87fd9cd-s.woff2",
+    "status": "saved",
+    "path": "assets/f3e4dd2caaa3b8a5_6c177e25b87fd9cd-s.woff2",
+    "content_type": "font/woff2",
+    "size": 39416,
+    "sha256": "f019bf8fa642981b9f12647688e825ccad3522d51f2f2859b1af372d5dc1ac31"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/6c9a125e97d835e1-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/6c9a125e97d835e1-s.woff2",
+    "status": "saved",
+    "path": "assets/246d28d2d7663ae9_6c9a125e97d835e1-s.woff2",
+    "content_type": "font/woff2",
+    "size": 5540,
+    "sha256": "c2857fb5c3f971df45e8c2764709acbcc5c6d60b9e47d945ae2e7bc51415afeb"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/4c285fdca692ea22-s.p.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/4c285fdca692ea22-s.p.woff2",
+    "status": "saved",
+    "path": "assets/10d1eafa403617b8_4c285fdca692ea22-s.p.woff2",
+    "content_type": "font/woff2",
+    "size": 7844,
+    "sha256": "643e38d8c288a1da34a14a68a5012441929108d50054414ce8cc33fad36a2354"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/034d78ad42e9620c-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/034d78ad42e9620c-s.woff2",
+    "status": "saved",
+    "path": "assets/b9cfa9a8f9c8e880_034d78ad42e9620c-s.woff2",
+    "content_type": "font/woff2",
+    "size": 39504,
+    "sha256": "23617a1bf667dd6a29e2724ac6595e75924549d1c25e8672e2346ef38bc9984a"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/fe0777f1195381cb-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/fe0777f1195381cb-s.woff2",
+    "status": "saved",
+    "path": "assets/ccca5c7f4c9b9dbc_fe0777f1195381cb-s.woff2",
+    "content_type": "font/woff2",
+    "size": 5640,
+    "sha256": "1fae5e73d2788ee1dea1d76eca3a9f157a0386de6be8c280d076a53a64c358a1"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/eafabf029ad39a43-s.p.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/eafabf029ad39a43-s.p.woff2",
+    "status": "saved",
+    "path": "assets/4d2889134b00f26c_eafabf029ad39a43-s.p.woff2",
+    "content_type": "font/woff2",
+    "size": 7900,
+    "sha256": "3dc5d0c52428fe1696264907a1054ebbaac07f8cbe45832c105f819c2ae397c0"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/db911767852bc875-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/db911767852bc875-s.woff2",
+    "status": "saved",
+    "path": "assets/d86cf8959ab68af1_db911767852bc875-s.woff2",
+    "content_type": "font/woff2",
+    "size": 39160,
+    "sha256": "9c8c47ee0aeaa2d378f4e5d5719ecbf05a601a35c285d0d48b888106bb15cf49"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/f10b8e9d91f3edcb-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/f10b8e9d91f3edcb-s.woff2",
+    "status": "saved",
+    "path": "assets/bc76ec9176306252_f10b8e9d91f3edcb-s.woff2",
+    "content_type": "font/woff2",
+    "size": 5496,
+    "sha256": "f8f0c28661c88edbcee022a4a80657619e8931af8c2a47c28e230307e2af30e5"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/8888a3826f4a3af4-s.p.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/8888a3826f4a3af4-s.p.woff2",
+    "status": "saved",
+    "path": "assets/cc626c6283daa93b_8888a3826f4a3af4-s.p.woff2",
+    "content_type": "font/woff2",
+    "size": 7740,
+    "sha256": "289e0afc8be731a86822349e54557296f145926496bd2138db1bac0db77f77a2"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/29e7bbdce9332268-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/29e7bbdce9332268-s.woff2",
+    "status": "saved",
+    "path": "assets/0bf770f829d84d2d_29e7bbdce9332268-s.woff2",
+    "content_type": "font/woff2",
+    "size": 39384,
+    "sha256": "6d8ef422be4d827037f6f2d5766a0808018876fa5e9aa9a92787fad9d1f17938"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/c3bc380753a8436c-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/c3bc380753a8436c-s.woff2",
+    "status": "saved",
+    "path": "assets/14984c19218a3e89_c3bc380753a8436c-s.woff2",
+    "content_type": "font/woff2",
+    "size": 5552,
+    "sha256": "72efc6a32cfd37c557108628cffa01153c480c3d4cde556744406e50b9d8e9f7"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/0484562807a97172-s.p.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/0484562807a97172-s.p.woff2",
+    "status": "saved",
+    "path": "assets/d6bd2880da47a4ae_0484562807a97172-s.p.woff2",
+    "content_type": "font/woff2",
+    "size": 7992,
+    "sha256": "872e862918591a9e824dc03ed92f05729435ffbb8ebbb10eff7eda26592b1798"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/29a4aea02fdee119-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/29a4aea02fdee119-s.woff2",
+    "status": "saved",
+    "path": "assets/e5afbeddc6f46f6e_29a4aea02fdee119-s.woff2",
+    "content_type": "font/woff2",
+    "size": 39204,
+    "sha256": "6eb8802d7319fcd48850eb38e41ed6ea12d917faafdfac7dae5614a517dc2b54"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/a1386beebedccca4-s.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/a1386beebedccca4-s.woff2",
+    "status": "saved",
+    "path": "assets/6e5d9a0af681a246_a1386beebedccca4-s.woff2",
+    "content_type": "font/woff2",
+    "size": 5448,
+    "sha256": "2477683a4b1200680780a759cc1b93b816410362dc5f4c74ebfeafa212bcb74d"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/b957ea75a84b6ea7-s.p.woff2",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/b957ea75a84b6ea7-s.p.woff2",
+    "status": "saved",
+    "path": "assets/1c5bae7700b704a6_b957ea75a84b6ea7-s.p.woff2",
+    "content_type": "font/woff2",
+    "size": 7848,
+    "sha256": "197a3cbd7290c242c5c765268cdd69a9a39867fdc80cd13071f243a81c56fb76"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Regular.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Regular.ttf",
+    "status": "saved",
+    "path": "assets/5cc946b1200989be_Roboto-Regular.ttf",
+    "content_type": "font/ttf",
+    "size": 168260,
+    "sha256": "4e147ab64b9fdf6d89d01f6b8c3ca0b3cddc59d608a8e2218f9a2504b5c98e14"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Bold.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Bold.ttf",
+    "status": "saved",
+    "path": "assets/0d76f464d927e2bb_Roboto-Bold.ttf",
+    "content_type": "font/ttf",
+    "size": 167336,
+    "sha256": "ec685a46105296fe46c8744da4a11cf8118ba6c11271941766f7a546df6aa7c7"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Italic.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/Roboto-Italic.ttf",
+    "status": "saved",
+    "path": "assets/ea1be719033521a0_Roboto-Italic.ttf",
+    "content_type": "font/ttf",
+    "size": 170504,
+    "sha256": "99e4a85061136e99e052929ed0d85e36384fba5c34b773139a8f64339c609943"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/Roboto-BoldItalic.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/Roboto-BoldItalic.ttf",
+    "status": "saved",
+    "path": "assets/1002d3e7931593d3_Roboto-BoldItalic.ttf",
+    "content_type": "font/ttf",
+    "size": 171508,
+    "sha256": "61df597f73c91f238cbe88fe3c536702d120d048b79b25fa0f4f7818fd123a6f"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/Prata-Regular.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/Prata-Regular.ttf",
+    "status": "saved",
+    "path": "assets/a004ebd0b4877da9_Prata-Regular.ttf",
+    "content_type": "font/ttf",
+    "size": 96948,
+    "sha256": "574345a3423feeb31f801fef6a127cd4a1e38f744212c73b83f0ab881d34b14a"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa-VariableFont_opsz,wght.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa-VariableFont_opsz,wght.ttf",
+    "status": "saved",
+    "path": "assets/28017f1ab7f295f8_BodoniModa-VariableFont_opsz_wght.ttf",
+    "content_type": "font/ttf",
+    "size": 151248,
+    "sha256": "d7dc202a3c8df81836678f6142acc768e0575cb16bf42184cbf259aaa993a76b"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Regular.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Regular.ttf",
+    "status": "saved",
+    "path": "assets/0ae43e9c0424366f_BodoniModa_18pt-Regular.ttf",
+    "content_type": "font/ttf",
+    "size": 52644,
+    "sha256": "a9ab802e1d263678793c3426583fbd49905f7b8c542b0295c8e1af50a5f56e12"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Bold.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Bold.ttf",
+    "status": "saved",
+    "path": "assets/bcf6a66a1d3aaacc_BodoniModa_18pt-Bold.ttf",
+    "content_type": "font/ttf",
+    "size": 52768,
+    "sha256": "33b475aa0f1510ce9e4f0ca8eb1292e286c6872bdec02e5507b6cb07c939d1ff"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Italic.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-Italic.ttf",
+    "status": "saved",
+    "path": "assets/efbae9f61bd6e039_BodoniModa_18pt-Italic.ttf",
+    "content_type": "font/ttf",
+    "size": 57044,
+    "sha256": "5f4db3ec01946d52f0aed415381721f6d62beae2fa0d5d7a51d134135d5083bd"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-BoldItalic.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/BodoniModa_18pt-BoldItalic.ttf",
+    "status": "saved",
+    "path": "assets/b10d45daa89de57d_BodoniModa_18pt-BoldItalic.ttf",
+    "content_type": "font/ttf",
+    "size": 57272,
+    "sha256": "fdefd7fa55315cc70c84fff9347e28ce502286366d7368d2a8928808bf068124"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/ReadexPro-VariableFont_HEXP,wght.ttf",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/ReadexPro-VariableFont_HEXP,wght.ttf",
+    "status": "saved",
+    "path": "assets/4d8b34410f747a09_ReadexPro-VariableFont_HEXP_wght.ttf",
+    "content_type": "font/ttf",
+    "size": 284848,
+    "sha256": "249a4786c7a3c69b4839360cccad189081deafcaf29ed5981838bcaafdb5e53c"
+  },
+  {
+    "url": "https://z.ai/blog/assets/src.SIfIfEEm.css",
+    "final_url": "https://z.ai/blog/assets/src.SIfIfEEm.css",
+    "status": "saved",
+    "path": "assets/4e6da75997be826b_src.SIfIfEEm.css",
+    "content_type": "text/css",
+    "size": 81168,
+    "sha256": "6eb37e85e5d763bc86f22fc948ee0552434d19d2323fdc7243c0ebfbb3995aa1"
+  },
+  {
+    "url": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5-blog/z-icon.png",
+    "final_url": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5-blog/z-icon.png",
+    "status": "saved",
+    "path": "assets/375618dd0c673e16_z-icon.png",
+    "content_type": "image/png",
+    "size": 6329,
+    "sha256": "dd85878fdfe6ec7c4e3bb484c824bef6fc0598734e2112d9ba02b9f5f1a2e75c"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/github-mark.svg",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/github-mark.svg",
+    "status": "saved",
+    "path": "assets/9633e414ac21af47_github-mark.svg",
+    "content_type": "image/svg+xml",
+    "size": 963,
+    "sha256": "7a0dd11e373830a51a565de9fed4a985707c67ccd390f9ae4946a152303ea676"
+  },
+  {
+    "url": "https://z-cdn.chatglm.cn/z-blog/hf-logo.svg",
+    "final_url": "https://z-cdn.chatglm.cn/z-blog/hf-logo.svg",
+    "status": "saved",
+    "path": "assets/8c239c8f6e22ed77_hf-logo.svg",
+    "content_type": "image/svg+xml",
+    "size": 35286,
+    "sha256": "942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0"
+  },
+  {
+    "url": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5.1-blog/20260407-235121.jpeg",
+    "final_url": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5.1-blog/20260407-235121.jpeg",
+    "status": "saved",
+    "path": "assets/ed567903dd5ec662_20260407-235121.jpeg",
+    "content_type": "image/jpeg",
+    "size": 393010,
+    "sha256": "388a6c3776762d83779c8f7a4a318f176adbff251df04753c562bfa574bcfbac"
+  }
+]

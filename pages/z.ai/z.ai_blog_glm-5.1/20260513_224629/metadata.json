@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://z.ai/blog/glm-5.1",
+  "captured_at_utc": "2026-05-13T22:46:29.553631+00:00",
+  "domain": "z.ai",
+  "slug": "z.ai_blog_glm-5.1",
+  "timestamp": "20260513_224629",
+  "session_key": "z_ai",
+  "persist_session": true,
+  "used_existing_session": false,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://z.ai/blog/glm-5.1",
+  "offline_assets_saved": 93,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 0,
+  "dom_link_count": 27,
+  "media_link_count": 5,
+  "session_path": "sessions/z_ai.json",
+  "network_request_count": 13
+}
