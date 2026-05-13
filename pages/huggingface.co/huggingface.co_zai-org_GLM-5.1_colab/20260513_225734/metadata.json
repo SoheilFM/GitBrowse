@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://huggingface.co/zai-org/GLM-5.1/colab",
+  "captured_at_utc": "2026-05-13T22:57:34.087056+00:00",
+  "domain": "huggingface.co",
+  "slug": "huggingface.co_zai-org_GLM-5.1_colab",
+  "timestamp": "20260513_225734",
+  "session_key": "huggingface_co",
+  "persist_session": true,
+  "used_existing_session": true,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://colab.research.google.com/#fileId=https%3A//huggingface.co/zai-org/GLM-5.1.ipynb",
+  "offline_assets_saved": 183,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 9,
+  "dom_link_count": 35,
+  "media_link_count": 1,
+  "session_path": "sessions/huggingface_co.json",
+  "network_request_count": 65
+}

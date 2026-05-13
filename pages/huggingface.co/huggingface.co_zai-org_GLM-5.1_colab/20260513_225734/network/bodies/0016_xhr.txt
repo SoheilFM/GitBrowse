@@ -1,0 +1,1 @@
+[16,"API keys are not supported by this API. Expected OAuth2 access token or other authentication credentials that assert a principal. See https://cloud.google.com/docs/authentication",[["type.googleapis.com/google.rpc.ErrorInfo",["CREDENTIALS_MISSING","googleapis.com",[["service","colab.pa.googleapis.com"],["method","google.internal.colab.v1.UserInfoService.GetUserInfo"]]]]]]
